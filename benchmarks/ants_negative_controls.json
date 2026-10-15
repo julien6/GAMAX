@@ -1,0 +1,14 @@
+{
+  "rng": [
+    "do wander(amplitude: 90.0);",
+    "if flip(1.0) {} do wander(amplitude: 90.0);"
+  ],
+  "selection": [
+    "(each distance_to loc) < 5",
+    "(each distance_to loc) < 4"
+  ],
+  "lifecycle": [
+    "reflex diffuse_road when: has_food = true {",
+    "reflex injected_death { do die; } reflex diffuse_road when: has_food = true {"
+  ]
+}

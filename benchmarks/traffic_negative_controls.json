@@ -1,0 +1,14 @@
+{
+  "rng": [
+    "list<pavement> road <- pavement where(each.grid_y = y_road);",
+    "if flip(1.0) {} list<pavement> road <- pavement where(each.grid_y = y_road);"
+  ],
+  "selection": [
+    "sample_car <- one_of(car);",
+    "sample_car <- first(car);"
+  ],
+  "lifecycle": [
+    "reflex patch_ahead {",
+    "reflex patch_ahead { do die;"
+  ]
+}

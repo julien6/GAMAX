@@ -1,0 +1,9698 @@
+[
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      0,
+      0,
+      0,
+      255
+    ],
+    "global.result": 0,
+    "global.destination": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "global.flag": false,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 1,
+    "global.chosen": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.result": 2,
+    "global.destination": [
+      3.0,
+      4.0,
+      0.0
+    ],
+    "global.flag": false,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 1,
+    "global.chosen": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.result": 2,
+    "global.destination": [
+      3.0,
+      4.0,
+      0.0
+    ],
+    "global.flag": false,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 1,
+    "global.chosen": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.result": 2,
+    "global.destination": [
+      3.0,
+      4.0,
+      0.0
+    ],
+    "global.flag": false,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 1,
+    "global.chosen": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.result": 2,
+    "global.destination": [
+      3.0,
+      4.0,
+      0.0
+    ],
+    "global.flag": false,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 1,
+    "global.chosen": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.result": 2,
+    "global.destination": [
+      3.0,
+      4.0,
+      0.0
+    ],
+    "global.flag": false,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 1,
+    "global.chosen": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.result": 2,
+    "global.destination": [
+      3.0,
+      4.0,
+      0.0
+    ],
+    "global.flag": false,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 1,
+    "global.chosen": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.result": 2,
+    "global.destination": [
+      3.0,
+      4.0,
+      0.0
+    ],
+    "global.flag": false,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 1,
+    "global.chosen": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.result": 2,
+    "global.destination": [
+      3.0,
+      4.0,
+      0.0
+    ],
+    "global.flag": false,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 1,
+    "global.chosen": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.result": 2,
+    "global.destination": [
+      3.0,
+      4.0,
+      0.0
+    ],
+    "global.flag": false,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 1,
+    "global.chosen": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.result": 2,
+    "global.destination": [
+      3.0,
+      4.0,
+      0.0
+    ],
+    "global.flag": false,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 1,
+    "global.chosen": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.result": 2,
+    "global.destination": [
+      3.0,
+      4.0,
+      0.0
+    ],
+    "global.flag": false,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 1,
+    "global.chosen": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.result": 2,
+    "global.destination": [
+      3.0,
+      4.0,
+      0.0
+    ],
+    "global.flag": false,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 1,
+    "global.chosen": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.result": 2,
+    "global.destination": [
+      3.0,
+      4.0,
+      0.0
+    ],
+    "global.flag": false,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 1,
+    "global.chosen": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.result": 2,
+    "global.destination": [
+      3.0,
+      4.0,
+      0.0
+    ],
+    "global.flag": false,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 1,
+    "global.chosen": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.result": 2,
+    "global.destination": [
+      3.0,
+      4.0,
+      0.0
+    ],
+    "global.flag": false,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 1,
+    "global.chosen": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.result": 2,
+    "global.destination": [
+      3.0,
+      4.0,
+      0.0
+    ],
+    "global.flag": false,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 1,
+    "global.chosen": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.result": 2,
+    "global.destination": [
+      3.0,
+      4.0,
+      0.0
+    ],
+    "global.flag": false,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 1,
+    "global.chosen": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.result": 2,
+    "global.destination": [
+      3.0,
+      4.0,
+      0.0
+    ],
+    "global.flag": false,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 1,
+    "global.chosen": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.result": 2,
+    "global.destination": [
+      3.0,
+      4.0,
+      0.0
+    ],
+    "global.flag": false,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 1,
+    "global.chosen": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.result": 2,
+    "global.destination": [
+      3.0,
+      4.0,
+      0.0
+    ],
+    "global.flag": false,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 1,
+    "global.chosen": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.result": 2,
+    "global.destination": [
+      3.0,
+      4.0,
+      0.0
+    ],
+    "global.flag": false,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 2,
+    "global.chosen": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.result": 7,
+    "global.destination": [
+      5.0,
+      6.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  },
+  {
+    "global.first_color": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.second_color": [
+      0,
+      128,
+      0,
+      255
+    ],
+    "global.third_color": [
+      255,
+      192,
+      203,
+      255
+    ],
+    "global.colors": [
+      [
+        255,
+        165,
+        0,
+        255
+      ],
+      [
+        0,
+        128,
+        0,
+        255
+      ],
+      [
+        255,
+        192,
+        203,
+        255
+      ]
+    ],
+    "global.numbers": [
+      4,
+      2,
+      7
+    ],
+    "global.places": [
+      [
+        1.0,
+        2.0,
+        0.0
+      ],
+      [
+        3.0,
+        4.0,
+        0.0
+      ],
+      [
+        5.0,
+        6.0,
+        0.0
+      ]
+    ],
+    "global.flags": [
+      true,
+      false,
+      true
+    ],
+    "global.selected": 0,
+    "global.chosen": [
+      255,
+      165,
+      0,
+      255
+    ],
+    "global.result": 4,
+    "global.destination": [
+      1.0,
+      2.0,
+      0.0
+    ],
+    "global.flag": true,
+    "Walker.location": [
+      [
+        49.910179996946155,
+        74.38702810377646,
+        0.0
+      ]
+    ],
+    "Walker.chosen": [
+      [
+        0,
+        128,
+        0,
+        255
+      ]
+    ]
+  }
+]

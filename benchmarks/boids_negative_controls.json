@@ -1,0 +1,14 @@
+{
+  "rng": [
+    "reflex separation when: apply_separation {",
+    "reflex separation when: apply_separation { if flip(1.0) {}"
+  ],
+  "lifecycle": [
+    "reflex separation when: apply_separation {",
+    "reflex separation when: apply_separation { do die;"
+  ],
+  "selection": [
+    "ask (boids overlapping (circle(minimal_distance)))",
+    "ask first(boids overlapping (circle(minimal_distance)))"
+  ]
+}

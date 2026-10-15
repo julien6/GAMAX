@@ -1,0 +1,244 @@
+[
+  {
+    "global.lower": 2,
+    "global.upper": 7,
+    "global.bounded": 2,
+    "global.inconsistent": 9,
+    "global.continuous": 5.5,
+    "global.zero": 0,
+    "global.zero_float": 0.0,
+    "global.disabled": false,
+    "walker.value": [
+      1,
+      1,
+      2,
+      2
+    ],
+    "walker.untouched": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "global.lower": 2,
+    "global.upper": 7,
+    "global.bounded": 5,
+    "global.inconsistent": 9,
+    "global.continuous": 2.5,
+    "global.zero": 0,
+    "global.zero_float": 0.0,
+    "global.disabled": false,
+    "walker.value": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "walker.untouched": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "global.lower": 2,
+    "global.upper": 7,
+    "global.bounded": 7,
+    "global.inconsistent": 9,
+    "global.continuous": -0.5,
+    "global.zero": 0,
+    "global.zero_float": 0.0,
+    "global.disabled": false,
+    "walker.value": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "walker.untouched": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "global.lower": 2,
+    "global.upper": 7,
+    "global.bounded": 7,
+    "global.inconsistent": 9,
+    "global.continuous": -1.5,
+    "global.zero": 0,
+    "global.zero_float": 0.0,
+    "global.disabled": false,
+    "walker.value": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "walker.untouched": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "global.lower": 2,
+    "global.upper": 7,
+    "global.bounded": 7,
+    "global.inconsistent": 9,
+    "global.continuous": -1.5,
+    "global.zero": 0,
+    "global.zero_float": 0.0,
+    "global.disabled": false,
+    "walker.value": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "walker.untouched": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "global.lower": 2,
+    "global.upper": 7,
+    "global.bounded": 7,
+    "global.inconsistent": 9,
+    "global.continuous": -1.5,
+    "global.zero": 0,
+    "global.zero_float": 0.0,
+    "global.disabled": false,
+    "walker.value": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "walker.untouched": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "global.lower": 2,
+    "global.upper": 7,
+    "global.bounded": 7,
+    "global.inconsistent": 9,
+    "global.continuous": -1.5,
+    "global.zero": 0,
+    "global.zero_float": 0.0,
+    "global.disabled": false,
+    "walker.value": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "walker.untouched": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "global.lower": 2,
+    "global.upper": 7,
+    "global.bounded": 7,
+    "global.inconsistent": 9,
+    "global.continuous": -1.5,
+    "global.zero": 0,
+    "global.zero_float": 0.0,
+    "global.disabled": false,
+    "walker.value": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "walker.untouched": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "global.lower": 2,
+    "global.upper": 7,
+    "global.bounded": 7,
+    "global.inconsistent": 9,
+    "global.continuous": -1.5,
+    "global.zero": 0,
+    "global.zero_float": 0.0,
+    "global.disabled": false,
+    "walker.value": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "walker.untouched": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "global.lower": 2,
+    "global.upper": 7,
+    "global.bounded": 7,
+    "global.inconsistent": 9,
+    "global.continuous": -1.5,
+    "global.zero": 0,
+    "global.zero_float": 0.0,
+    "global.disabled": false,
+    "walker.value": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "walker.untouched": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "global.lower": 2,
+    "global.upper": 7,
+    "global.bounded": 7,
+    "global.inconsistent": 9,
+    "global.continuous": -1.5,
+    "global.zero": 0,
+    "global.zero_float": 0.0,
+    "global.disabled": false,
+    "walker.value": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "walker.untouched": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]

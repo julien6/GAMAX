@@ -1,0 +1,32 @@
+{
+  "sir_spatial": {
+    "coupled": "results/official-sir-ten-seeds-coupled-2026-10-13",
+    "negative_controls": "results/official-sir-negative-controls-final-2026-10-13",
+    "standalone": "results/official-sir-without-gamax-installed-final-2026-10-13"
+  },
+  "schelling": {
+    "coupled": "results/official-schelling-cached-ten-seeds-coupled-2026-10-13",
+    "negative_controls": "results/official-schelling-negative-controls-2026-10-13",
+    "standalone": "results/official-schelling-cached-without-gamax-installed-2026-10-13"
+  },
+  "boids": {
+    "coupled": "results/official-boids-strict-reset-ten-seeds-coupled-2026-10-13",
+    "negative_controls": "results/official-boids-strict-reset-native-capacities-negative-controls-2026-10-13",
+    "standalone": "results/official-boids-strict-reset-without-gamax-installed-2026-10-13"
+  },
+  "traffic": {
+    "coupled": "results/official-traffic-ten-seeds-coupled-2026-10-13",
+    "negative_controls": "results/official-traffic-negative-controls-2026-10-13",
+    "standalone": "results/official-traffic-without-gamax-installed-2026-10-13"
+  },
+  "predator_prey": {
+    "coupled": "results/official-predator-prey-strict-reset-ten-seeds-coupled-2026-10-13",
+    "negative_controls": "results/official-predator-prey-negative-controls-2026-10-13",
+    "standalone": "results/official-predator-prey-without-gamax-installed-2026-10-13"
+  },
+  "ants": {
+    "coupled": "results/official-ants-final-ten-seeds-native-coupled-2026-10-13",
+    "negative_controls": "results/official-ants-final-isolated-negative-controls-2026-10-13",
+    "standalone": "results/official-ants-final-ready-without-gamax-installed-2026-10-13"
+  }
+}

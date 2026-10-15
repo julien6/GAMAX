@@ -1,0 +1,1 @@
+{"fields":{"global.walkers":"int","global.perception":"float","global.group_total":"int","global.neighbor_total":"int","global.happy_total":"int","global.draw_after_maps":"int","Walker.location":"point","Walker.group":"int","Walker.nearby":"agents:Walker","Walker.total_nearby":"int","Walker.same_group":"int","Walker.is_happy":"bool"}}

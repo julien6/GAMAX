@@ -1,0 +1,603 @@
+{
+  "scope": "Derived scalar measurements from two distinct historical compiler versions. Recomputes batch ratios, not raw state fidelity or confidence intervals. Raw evidence is not distributed in this source-only repository.",
+  "campaigns": [
+    {
+      "campaign": "optimizer-six-bounded-amortized-ten-seeds",
+      "original_files_sha256": {
+        "measurements.json": "de72c192e27d2998b4be3bf997748d82583d012a40fd3d3808ffab3a7cf54407",
+        "analysis.json": "eb6076a6085f4adaeaf9d91839776b283dd744c746a5cc08ee3e84985d51bcde",
+        "summary.json": "4bec959042b5f273c761434cb45834f6df6509a814ed41c58b7539af58ed4350"
+      },
+      "measurements": [
+        {
+          "case": "sir_spatial",
+          "mode": "compute",
+          "engine": "gama",
+          "status": "measured",
+          "total_seconds": 95.37964819799527,
+          "total_including_translation_seconds": 95.37964819799527,
+          "translation_seconds": 0.0,
+          "translation_cpu_seconds": 0.0,
+          "peak_pss_bytes": 540317696,
+          "peak_rss_bytes": 592908288,
+          "cpu_seconds": 80.21199,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "sir_spatial",
+          "mode": "compute",
+          "engine": "jax",
+          "status": "measured",
+          "total_seconds": 135.7922447489982,
+          "total_including_translation_seconds": 135.91039991799335,
+          "translation_seconds": 0.11815516899514478,
+          "translation_cpu_seconds": 0.11472099999999999,
+          "peak_pss_bytes": 353924096,
+          "peak_rss_bytes": 391659520,
+          "cpu_seconds": 111.92716,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "sir_spatial",
+          "mode": "render",
+          "engine": "gama",
+          "status": "measured",
+          "total_seconds": 160.0827318209922,
+          "total_including_translation_seconds": 160.0827318209922,
+          "translation_seconds": 0.0,
+          "translation_cpu_seconds": 0.0,
+          "peak_pss_bytes": 623170560,
+          "peak_rss_bytes": 679231488,
+          "cpu_seconds": 129.69265099999998,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "sir_spatial",
+          "mode": "render",
+          "engine": "jax",
+          "status": "measured",
+          "total_seconds": 166.3024071510008,
+          "total_including_translation_seconds": 166.42056231999595,
+          "translation_seconds": 0.11815516899514478,
+          "translation_cpu_seconds": 0.11472099999999999,
+          "peak_pss_bytes": 350158848,
+          "peak_rss_bytes": 385941504,
+          "cpu_seconds": 135.428711,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "schelling",
+          "mode": "compute",
+          "engine": "gama",
+          "status": "measured",
+          "total_seconds": 228.23504317199695,
+          "total_including_translation_seconds": 228.23504317199695,
+          "translation_seconds": 0.0,
+          "translation_cpu_seconds": 0.0,
+          "peak_pss_bytes": 444712960,
+          "peak_rss_bytes": 495636480,
+          "cpu_seconds": 189.54904399999998,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "schelling",
+          "mode": "compute",
+          "engine": "jax",
+          "status": "measured",
+          "total_seconds": 302.9110786030069,
+          "total_including_translation_seconds": 302.95436715500546,
+          "translation_seconds": 0.04328855199855752,
+          "translation_cpu_seconds": 0.043107000000000006,
+          "peak_pss_bytes": 396681216,
+          "peak_rss_bytes": 431939584,
+          "cpu_seconds": 248.95789599999998,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "schelling",
+          "mode": "render",
+          "engine": "jax",
+          "status": "measured",
+          "total_seconds": 437.820387654996,
+          "total_including_translation_seconds": 437.86367620699457,
+          "translation_seconds": 0.04328855199855752,
+          "translation_cpu_seconds": 0.043107000000000006,
+          "peak_pss_bytes": 424713216,
+          "peak_rss_bytes": 465477632,
+          "cpu_seconds": 349.124358,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "schelling",
+          "mode": "render",
+          "engine": "gama",
+          "status": "measured",
+          "total_seconds": 463.30038879999483,
+          "total_including_translation_seconds": 463.30038879999483,
+          "translation_seconds": 0.0,
+          "translation_cpu_seconds": 0.0,
+          "peak_pss_bytes": 523100160,
+          "peak_rss_bytes": 580304896,
+          "cpu_seconds": 360.135745,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "boids",
+          "mode": "compute",
+          "engine": "jax",
+          "status": "measured",
+          "total_seconds": 39.16247217600176,
+          "total_including_translation_seconds": 39.20644698900287,
+          "translation_seconds": 0.043974813001113944,
+          "translation_cpu_seconds": 0.04352800000000004,
+          "peak_pss_bytes": 238586880,
+          "peak_rss_bytes": 309190656,
+          "cpu_seconds": 30.452363,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "boids",
+          "mode": "compute",
+          "engine": "gama",
+          "status": "measured",
+          "total_seconds": 72.40952308000124,
+          "total_including_translation_seconds": 72.40952308000124,
+          "translation_seconds": 0.0,
+          "translation_cpu_seconds": 0.0,
+          "peak_pss_bytes": 455641088,
+          "peak_rss_bytes": 520523776,
+          "cpu_seconds": 58.578523999999994,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "boids",
+          "mode": "render",
+          "engine": "gama",
+          "status": "measured",
+          "total_seconds": 93.54698559800454,
+          "total_including_translation_seconds": 93.54698559800454,
+          "translation_seconds": 0.0,
+          "translation_cpu_seconds": 0.0,
+          "peak_pss_bytes": 428972032,
+          "peak_rss_bytes": 494026752,
+          "cpu_seconds": 74.633958,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "boids",
+          "mode": "render",
+          "engine": "jax",
+          "status": "measured",
+          "total_seconds": 50.367055826995056,
+          "total_including_translation_seconds": 50.41103063999617,
+          "translation_seconds": 0.043974813001113944,
+          "translation_cpu_seconds": 0.04352800000000004,
+          "peak_pss_bytes": 238208000,
+          "peak_rss_bytes": 320548864,
+          "cpu_seconds": 38.891774000000005,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "traffic",
+          "mode": "compute",
+          "engine": "jax",
+          "status": "measured",
+          "total_seconds": 10.335922202008078,
+          "total_including_translation_seconds": 10.35770159700769,
+          "translation_seconds": 0.021779394999612123,
+          "translation_cpu_seconds": 0.021434999999999982,
+          "peak_pss_bytes": 122482688,
+          "peak_rss_bytes": 203984896,
+          "cpu_seconds": 8.132496,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "traffic",
+          "mode": "compute",
+          "engine": "gama",
+          "status": "measured",
+          "total_seconds": 102.41343747399515,
+          "total_including_translation_seconds": 102.41343747399515,
+          "translation_seconds": 0.0,
+          "translation_cpu_seconds": 0.0,
+          "peak_pss_bytes": 581086208,
+          "peak_rss_bytes": 645926912,
+          "cpu_seconds": 83.854546,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "traffic",
+          "mode": "render",
+          "engine": "jax",
+          "status": "measured",
+          "total_seconds": 19.76229368800705,
+          "total_including_translation_seconds": 19.78407308300666,
+          "translation_seconds": 0.021779394999612123,
+          "translation_cpu_seconds": 0.021434999999999982,
+          "peak_pss_bytes": 131292160,
+          "peak_rss_bytes": 213917696,
+          "cpu_seconds": 15.646459,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "traffic",
+          "mode": "render",
+          "engine": "gama",
+          "status": "measured",
+          "total_seconds": 150.90853850499843,
+          "total_including_translation_seconds": 150.90853850499843,
+          "translation_seconds": 0.0,
+          "translation_cpu_seconds": 0.0,
+          "peak_pss_bytes": 624073728,
+          "peak_rss_bytes": 690130944,
+          "cpu_seconds": 121.37153900000001,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "predator_prey",
+          "mode": "compute",
+          "engine": "gama",
+          "status": "measured",
+          "total_seconds": 200.8222888379969,
+          "total_including_translation_seconds": 200.8222888379969,
+          "translation_seconds": 0.0,
+          "translation_cpu_seconds": 0.0,
+          "peak_pss_bytes": 671504384,
+          "peak_rss_bytes": 732479488,
+          "cpu_seconds": 158.710151,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "predator_prey",
+          "mode": "compute",
+          "engine": "jax",
+          "status": "measured",
+          "total_seconds": 89.57193699100753,
+          "total_including_translation_seconds": 89.68367002301966,
+          "translation_seconds": 0.11173303201212548,
+          "translation_cpu_seconds": 0.10483399999999998,
+          "peak_pss_bytes": 417995776,
+          "peak_rss_bytes": 485040128,
+          "cpu_seconds": 70.099728,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "predator_prey",
+          "mode": "render",
+          "engine": "jax",
+          "status": "measured",
+          "total_seconds": 133.92266193999967,
+          "total_including_translation_seconds": 134.0343949720118,
+          "translation_seconds": 0.11173303201212548,
+          "translation_cpu_seconds": 0.10483399999999998,
+          "peak_pss_bytes": 490919936,
+          "peak_rss_bytes": 559984640,
+          "cpu_seconds": 102.775851,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "predator_prey",
+          "mode": "render",
+          "engine": "gama",
+          "status": "measured",
+          "total_seconds": 271.11235965500236,
+          "total_including_translation_seconds": 271.11235965500236,
+          "translation_seconds": 0.0,
+          "translation_cpu_seconds": 0.0,
+          "peak_pss_bytes": 774159360,
+          "peak_rss_bytes": 827895808,
+          "cpu_seconds": 214.138741,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "ants",
+          "mode": "compute",
+          "engine": "jax",
+          "status": "measured",
+          "total_seconds": 65.48433375899913,
+          "total_including_translation_seconds": 66.23938521198579,
+          "translation_seconds": 0.7550514529866632,
+          "translation_cpu_seconds": 1.303416,
+          "peak_pss_bytes": 296962048,
+          "peak_rss_bytes": 332111872,
+          "cpu_seconds": 52.961567,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "ants",
+          "mode": "compute",
+          "engine": "gama",
+          "status": "measured",
+          "total_seconds": 127.10953708300076,
+          "total_including_translation_seconds": 127.10953708300076,
+          "translation_seconds": 0.0,
+          "translation_cpu_seconds": 0.0,
+          "peak_pss_bytes": 554389504,
+          "peak_rss_bytes": 607490048,
+          "cpu_seconds": 102.379507,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "ants",
+          "mode": "render",
+          "engine": "jax",
+          "status": "measured",
+          "total_seconds": 106.67869156700908,
+          "total_including_translation_seconds": 107.43374301999575,
+          "translation_seconds": 0.7550514529866632,
+          "translation_cpu_seconds": 1.303416,
+          "peak_pss_bytes": 436341760,
+          "peak_rss_bytes": 469127168,
+          "cpu_seconds": 86.92102899999999,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "ants",
+          "mode": "render",
+          "engine": "gama",
+          "status": "measured",
+          "total_seconds": 305.72577241899853,
+          "total_including_translation_seconds": 305.72577241899853,
+          "translation_seconds": 0.0,
+          "translation_cpu_seconds": 0.0,
+          "peak_pss_bytes": 716181504,
+          "peak_rss_bytes": 766332928,
+          "cpu_seconds": 237.27197900000002,
+          "complete": true,
+          "simulations": 30
+        }
+      ],
+      "reported_ratios": [
+        {
+          "case": "sir_spatial",
+          "mode": "compute",
+          "ratios": {
+            "total_seconds": 0.702393928123785,
+            "total_including_translation_seconds": 0.701783294402387,
+            "peak_pss_bytes": 1.526648516183538,
+            "cpu_seconds": 0.716644557049424,
+            "cpu_including_translation_seconds": 0.7159107762569605
+          }
+        },
+        {
+          "case": "sir_spatial",
+          "mode": "render",
+          "ratios": {
+            "total_seconds": 0.9626002086406289,
+            "total_including_translation_seconds": 0.9619167823335599,
+            "peak_pss_bytes": 1.7796796041549692,
+            "cpu_seconds": 0.9576451702327728,
+            "cpu_including_translation_seconds": 0.9568346402797295
+          }
+        },
+        {
+          "case": "schelling",
+          "mode": "compute",
+          "ratios": {
+            "total_seconds": 0.7534720889859567,
+            "total_including_translation_seconds": 0.7533644268452527,
+            "peak_pss_bytes": 1.1210839890134854,
+            "cpu_seconds": 0.761369882399713,
+            "cpu_including_translation_seconds": 0.761238074209685
+          }
+        },
+        {
+          "case": "schelling",
+          "mode": "render",
+          "ratios": {
+            "total_seconds": 1.0581973838209588,
+            "total_including_translation_seconds": 1.058092767167504,
+            "peak_pss_bytes": 1.2316550092945542,
+            "cpu_seconds": 1.0315400136016863,
+            "cpu_including_translation_seconds": 1.0314126632617389
+          }
+        },
+        {
+          "case": "boids",
+          "mode": "compute",
+          "ratios": {
+            "total_seconds": 1.8489517912603288,
+            "total_including_translation_seconds": 1.8468779662771175,
+            "peak_pss_bytes": 1.909749136247559,
+            "cpu_seconds": 1.9236117735756664,
+            "cpu_including_translation_seconds": 1.9208661258659405
+          }
+        },
+        {
+          "case": "boids",
+          "mode": "render",
+          "ratios": {
+            "total_seconds": 1.8573050193628051,
+            "total_including_translation_seconds": 1.8556848453676378,
+            "peak_pss_bytes": 1.8008296614723267,
+            "cpu_seconds": 1.9190165509035406,
+            "cpu_including_translation_seconds": 1.9168711725929337
+          }
+        },
+        {
+          "case": "traffic",
+          "mode": "compute",
+          "ratios": {
+            "total_seconds": 9.908495388451948,
+            "total_including_translation_seconds": 9.887660550443169,
+            "peak_pss_bytes": 4.744231348025282,
+            "cpu_seconds": 10.311046694643318,
+            "cpu_including_translation_seconds": 10.28394108314137
+          }
+        },
+        {
+          "case": "traffic",
+          "mode": "render",
+          "ratios": {
+            "total_seconds": 7.636185398690782,
+            "total_including_translation_seconds": 7.627779066112522,
+            "peak_pss_bytes": 4.753320594314237,
+            "cpu_seconds": 7.757125046631957,
+            "cpu_including_translation_seconds": 7.746512645541259
+          }
+        },
+        {
+          "case": "predator_prey",
+          "mode": "compute",
+          "ratios": {
+            "total_seconds": 2.242022396570013,
+            "total_including_translation_seconds": 2.239229157174886,
+            "peak_pss_bytes": 1.6064860521461346,
+            "cpu_seconds": 2.2640622942217408,
+            "cpu_including_translation_seconds": 2.260681449732569
+          }
+        },
+        {
+          "case": "predator_prey",
+          "mode": "render",
+          "ratios": {
+            "total_seconds": 2.0243949435269344,
+            "total_including_translation_seconds": 2.0227073782935663,
+            "peak_pss_bytes": 1.5769564510005967,
+            "cpu_seconds": 2.0835511349840345,
+            "cpu_including_translation_seconds": 2.081428025095284
+          }
+        },
+        {
+          "case": "ants",
+          "mode": "compute",
+          "ratios": {
+            "total_seconds": 1.9410678827519237,
+            "total_including_translation_seconds": 1.9189419810617554,
+            "peak_pss_bytes": 1.8668698836559747,
+            "cpu_seconds": 1.9330905937885108,
+            "cpu_including_translation_seconds": 1.8866587869381624
+          }
+        },
+        {
+          "case": "ants",
+          "mode": "render",
+          "ratios": {
+            "total_seconds": 2.865856038616298,
+            "total_including_translation_seconds": 2.845714612792522,
+            "peak_pss_bytes": 1.6413315654224798,
+            "cpu_seconds": 2.729741947716703,
+            "cpu_including_translation_seconds": 2.689413109937955
+          }
+        }
+      ]
+    },
+    {
+      "campaign": "optimizer-grid-counts-finite-sir-amortized-ten-seeds",
+      "original_files_sha256": {
+        "measurements.json": "ae63e758a8ead60763b834dea23477d3aa080972e67267f0801d2a258a73f15e",
+        "analysis.json": "c254e7c12c644087ec4aa77e4937466fc053db66619888713ff1be513fedcf82",
+        "summary.json": "f7fc217bca8deac3cbb0b30702cbdb502a2b836012fdb82b2d9e30e143db7716"
+      },
+      "measurements": [
+        {
+          "case": "sir_spatial",
+          "mode": "compute",
+          "engine": "gama",
+          "status": "measured",
+          "total_seconds": 146.82183825598622,
+          "total_including_translation_seconds": 146.82183825598622,
+          "translation_seconds": 0.0,
+          "translation_cpu_seconds": 0.0,
+          "peak_pss_bytes": 497090560,
+          "peak_rss_bytes": 558108672,
+          "cpu_seconds": 115.861784,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "sir_spatial",
+          "mode": "compute",
+          "engine": "jax",
+          "status": "measured",
+          "total_seconds": 64.41520018099982,
+          "total_including_translation_seconds": 64.74050307599828,
+          "translation_seconds": 0.3253028949984582,
+          "translation_cpu_seconds": 0.307169,
+          "peak_pss_bytes": 285968384,
+          "peak_rss_bytes": 321691648,
+          "cpu_seconds": 52.125930999999994,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "sir_spatial",
+          "mode": "render",
+          "engine": "gama",
+          "status": "measured",
+          "total_seconds": 153.109773965989,
+          "total_including_translation_seconds": 153.109773965989,
+          "translation_seconds": 0.0,
+          "translation_cpu_seconds": 0.0,
+          "peak_pss_bytes": 623444992,
+          "peak_rss_bytes": 679469056,
+          "cpu_seconds": 123.15309599999999,
+          "complete": true,
+          "simulations": 30
+        },
+        {
+          "case": "sir_spatial",
+          "mode": "render",
+          "engine": "jax",
+          "status": "measured",
+          "total_seconds": 76.63610759799485,
+          "total_including_translation_seconds": 76.96141049299331,
+          "translation_seconds": 0.3253028949984582,
+          "translation_cpu_seconds": 0.307169,
+          "peak_pss_bytes": 361479168,
+          "peak_rss_bytes": 396869632,
+          "cpu_seconds": 62.599622999999994,
+          "complete": true,
+          "simulations": 30
+        }
+      ],
+      "reported_ratios": [
+        {
+          "case": "sir_spatial",
+          "mode": "compute",
+          "ratios": {
+            "total_seconds": 2.27930423011079,
+            "total_including_translation_seconds": 2.2678513647574445,
+            "peak_pss_bytes": 1.7382710390810194,
+            "cpu_seconds": 2.222728338415673,
+            "cpu_including_translation_seconds": 2.209706921772697
+          }
+        },
+        {
+          "case": "sir_spatial",
+          "mode": "render",
+          "ratios": {
+            "total_seconds": 1.9978803564652212,
+            "total_including_translation_seconds": 1.9894356533386088,
+            "peak_pss_bytes": 1.7247051758180432,
+            "cpu_seconds": 1.9673137009147803,
+            "cpu_including_translation_seconds": 1.957707460269155
+          }
+        }
+      ]
+    }
+  ]
+}

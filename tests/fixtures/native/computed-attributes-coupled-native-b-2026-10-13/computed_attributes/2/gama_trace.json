@@ -1,0 +1,2224 @@
+[
+  {
+    "global.a": 1,
+    "global.doubled": 2,
+    "global.tripled": 3,
+    "global.selected": 0,
+    "Walker.value": [
+      4,
+      4
+    ],
+    "Walker.derived": [
+      6,
+      6
+    ],
+    "Walker.high": [
+      false,
+      false
+    ],
+    "Walker.selected": [
+      0,
+      0
+    ]
+  },
+  {
+    "global.a": 2,
+    "global.doubled": 4,
+    "global.tripled": 6,
+    "global.selected": 6,
+    "Walker.value": [
+      5,
+      5
+    ],
+    "Walker.derived": [
+      9,
+      9
+    ],
+    "Walker.high": [
+      false,
+      false
+    ],
+    "Walker.selected": [
+      9,
+      9
+    ]
+  },
+  {
+    "global.a": 3,
+    "global.doubled": 6,
+    "global.tripled": 9,
+    "global.selected": 9,
+    "Walker.value": [
+      6,
+      6
+    ],
+    "Walker.derived": [
+      12,
+      12
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      12,
+      12
+    ]
+  },
+  {
+    "global.a": 4,
+    "global.doubled": 8,
+    "global.tripled": 12,
+    "global.selected": 12,
+    "Walker.value": [
+      7,
+      7
+    ],
+    "Walker.derived": [
+      15,
+      15
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      15,
+      15
+    ]
+  },
+  {
+    "global.a": 5,
+    "global.doubled": 10,
+    "global.tripled": 15,
+    "global.selected": 15,
+    "Walker.value": [
+      8,
+      8
+    ],
+    "Walker.derived": [
+      18,
+      18
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      18,
+      18
+    ]
+  },
+  {
+    "global.a": 6,
+    "global.doubled": 12,
+    "global.tripled": 18,
+    "global.selected": 18,
+    "Walker.value": [
+      9,
+      9
+    ],
+    "Walker.derived": [
+      21,
+      21
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      21,
+      21
+    ]
+  },
+  {
+    "global.a": 7,
+    "global.doubled": 14,
+    "global.tripled": 21,
+    "global.selected": 21,
+    "Walker.value": [
+      10,
+      10
+    ],
+    "Walker.derived": [
+      24,
+      24
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      24,
+      24
+    ]
+  },
+  {
+    "global.a": 8,
+    "global.doubled": 16,
+    "global.tripled": 24,
+    "global.selected": 24,
+    "Walker.value": [
+      11,
+      11
+    ],
+    "Walker.derived": [
+      27,
+      27
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      27,
+      27
+    ]
+  },
+  {
+    "global.a": 9,
+    "global.doubled": 18,
+    "global.tripled": 27,
+    "global.selected": 27,
+    "Walker.value": [
+      12,
+      12
+    ],
+    "Walker.derived": [
+      30,
+      30
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      30,
+      30
+    ]
+  },
+  {
+    "global.a": 10,
+    "global.doubled": 20,
+    "global.tripled": 30,
+    "global.selected": 30,
+    "Walker.value": [
+      13,
+      13
+    ],
+    "Walker.derived": [
+      33,
+      33
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      33,
+      33
+    ]
+  },
+  {
+    "global.a": 11,
+    "global.doubled": 22,
+    "global.tripled": 33,
+    "global.selected": 33,
+    "Walker.value": [
+      14,
+      14
+    ],
+    "Walker.derived": [
+      36,
+      36
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      36,
+      36
+    ]
+  },
+  {
+    "global.a": 12,
+    "global.doubled": 24,
+    "global.tripled": 36,
+    "global.selected": 36,
+    "Walker.value": [
+      15,
+      15
+    ],
+    "Walker.derived": [
+      39,
+      39
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      39,
+      39
+    ]
+  },
+  {
+    "global.a": 13,
+    "global.doubled": 26,
+    "global.tripled": 39,
+    "global.selected": 39,
+    "Walker.value": [
+      16,
+      16
+    ],
+    "Walker.derived": [
+      42,
+      42
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      42,
+      42
+    ]
+  },
+  {
+    "global.a": 14,
+    "global.doubled": 28,
+    "global.tripled": 42,
+    "global.selected": 42,
+    "Walker.value": [
+      17,
+      17
+    ],
+    "Walker.derived": [
+      45,
+      45
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      45,
+      45
+    ]
+  },
+  {
+    "global.a": 15,
+    "global.doubled": 30,
+    "global.tripled": 45,
+    "global.selected": 45,
+    "Walker.value": [
+      18,
+      18
+    ],
+    "Walker.derived": [
+      48,
+      48
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      48,
+      48
+    ]
+  },
+  {
+    "global.a": 16,
+    "global.doubled": 32,
+    "global.tripled": 48,
+    "global.selected": 48,
+    "Walker.value": [
+      19,
+      19
+    ],
+    "Walker.derived": [
+      51,
+      51
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      51,
+      51
+    ]
+  },
+  {
+    "global.a": 17,
+    "global.doubled": 34,
+    "global.tripled": 51,
+    "global.selected": 51,
+    "Walker.value": [
+      20,
+      20
+    ],
+    "Walker.derived": [
+      54,
+      54
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      54,
+      54
+    ]
+  },
+  {
+    "global.a": 18,
+    "global.doubled": 36,
+    "global.tripled": 54,
+    "global.selected": 54,
+    "Walker.value": [
+      21,
+      21
+    ],
+    "Walker.derived": [
+      57,
+      57
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      57,
+      57
+    ]
+  },
+  {
+    "global.a": 19,
+    "global.doubled": 38,
+    "global.tripled": 57,
+    "global.selected": 57,
+    "Walker.value": [
+      22,
+      22
+    ],
+    "Walker.derived": [
+      60,
+      60
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      60,
+      60
+    ]
+  },
+  {
+    "global.a": 20,
+    "global.doubled": 40,
+    "global.tripled": 60,
+    "global.selected": 60,
+    "Walker.value": [
+      23,
+      23
+    ],
+    "Walker.derived": [
+      63,
+      63
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      63,
+      63
+    ]
+  },
+  {
+    "global.a": 21,
+    "global.doubled": 42,
+    "global.tripled": 63,
+    "global.selected": 63,
+    "Walker.value": [
+      24,
+      24
+    ],
+    "Walker.derived": [
+      66,
+      66
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      66,
+      66
+    ]
+  },
+  {
+    "global.a": 22,
+    "global.doubled": 44,
+    "global.tripled": 66,
+    "global.selected": 66,
+    "Walker.value": [
+      25,
+      25
+    ],
+    "Walker.derived": [
+      69,
+      69
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      69,
+      69
+    ]
+  },
+  {
+    "global.a": 23,
+    "global.doubled": 46,
+    "global.tripled": 69,
+    "global.selected": 69,
+    "Walker.value": [
+      26,
+      26
+    ],
+    "Walker.derived": [
+      72,
+      72
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      72,
+      72
+    ]
+  },
+  {
+    "global.a": 24,
+    "global.doubled": 48,
+    "global.tripled": 72,
+    "global.selected": 72,
+    "Walker.value": [
+      27,
+      27
+    ],
+    "Walker.derived": [
+      75,
+      75
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      75,
+      75
+    ]
+  },
+  {
+    "global.a": 25,
+    "global.doubled": 50,
+    "global.tripled": 75,
+    "global.selected": 75,
+    "Walker.value": [
+      28,
+      28
+    ],
+    "Walker.derived": [
+      78,
+      78
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      78,
+      78
+    ]
+  },
+  {
+    "global.a": 26,
+    "global.doubled": 52,
+    "global.tripled": 78,
+    "global.selected": 78,
+    "Walker.value": [
+      29,
+      29
+    ],
+    "Walker.derived": [
+      81,
+      81
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      81,
+      81
+    ]
+  },
+  {
+    "global.a": 27,
+    "global.doubled": 54,
+    "global.tripled": 81,
+    "global.selected": 81,
+    "Walker.value": [
+      30,
+      30
+    ],
+    "Walker.derived": [
+      84,
+      84
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      84,
+      84
+    ]
+  },
+  {
+    "global.a": 28,
+    "global.doubled": 56,
+    "global.tripled": 84,
+    "global.selected": 84,
+    "Walker.value": [
+      31,
+      31
+    ],
+    "Walker.derived": [
+      87,
+      87
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      87,
+      87
+    ]
+  },
+  {
+    "global.a": 29,
+    "global.doubled": 58,
+    "global.tripled": 87,
+    "global.selected": 87,
+    "Walker.value": [
+      32,
+      32
+    ],
+    "Walker.derived": [
+      90,
+      90
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      90,
+      90
+    ]
+  },
+  {
+    "global.a": 30,
+    "global.doubled": 60,
+    "global.tripled": 90,
+    "global.selected": 90,
+    "Walker.value": [
+      33,
+      33
+    ],
+    "Walker.derived": [
+      93,
+      93
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      93,
+      93
+    ]
+  },
+  {
+    "global.a": 31,
+    "global.doubled": 62,
+    "global.tripled": 93,
+    "global.selected": 93,
+    "Walker.value": [
+      34,
+      34
+    ],
+    "Walker.derived": [
+      96,
+      96
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      96,
+      96
+    ]
+  },
+  {
+    "global.a": 32,
+    "global.doubled": 64,
+    "global.tripled": 96,
+    "global.selected": 96,
+    "Walker.value": [
+      35,
+      35
+    ],
+    "Walker.derived": [
+      99,
+      99
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      99,
+      99
+    ]
+  },
+  {
+    "global.a": 33,
+    "global.doubled": 66,
+    "global.tripled": 99,
+    "global.selected": 99,
+    "Walker.value": [
+      36,
+      36
+    ],
+    "Walker.derived": [
+      102,
+      102
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      102,
+      102
+    ]
+  },
+  {
+    "global.a": 34,
+    "global.doubled": 68,
+    "global.tripled": 102,
+    "global.selected": 102,
+    "Walker.value": [
+      37,
+      37
+    ],
+    "Walker.derived": [
+      105,
+      105
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      105,
+      105
+    ]
+  },
+  {
+    "global.a": 35,
+    "global.doubled": 70,
+    "global.tripled": 105,
+    "global.selected": 105,
+    "Walker.value": [
+      38,
+      38
+    ],
+    "Walker.derived": [
+      108,
+      108
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      108,
+      108
+    ]
+  },
+  {
+    "global.a": 36,
+    "global.doubled": 72,
+    "global.tripled": 108,
+    "global.selected": 108,
+    "Walker.value": [
+      39,
+      39
+    ],
+    "Walker.derived": [
+      111,
+      111
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      111,
+      111
+    ]
+  },
+  {
+    "global.a": 37,
+    "global.doubled": 74,
+    "global.tripled": 111,
+    "global.selected": 111,
+    "Walker.value": [
+      40,
+      40
+    ],
+    "Walker.derived": [
+      114,
+      114
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      114,
+      114
+    ]
+  },
+  {
+    "global.a": 38,
+    "global.doubled": 76,
+    "global.tripled": 114,
+    "global.selected": 114,
+    "Walker.value": [
+      41,
+      41
+    ],
+    "Walker.derived": [
+      117,
+      117
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      117,
+      117
+    ]
+  },
+  {
+    "global.a": 39,
+    "global.doubled": 78,
+    "global.tripled": 117,
+    "global.selected": 117,
+    "Walker.value": [
+      42,
+      42
+    ],
+    "Walker.derived": [
+      120,
+      120
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      120,
+      120
+    ]
+  },
+  {
+    "global.a": 40,
+    "global.doubled": 80,
+    "global.tripled": 120,
+    "global.selected": 120,
+    "Walker.value": [
+      43,
+      43
+    ],
+    "Walker.derived": [
+      123,
+      123
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      123,
+      123
+    ]
+  },
+  {
+    "global.a": 41,
+    "global.doubled": 82,
+    "global.tripled": 123,
+    "global.selected": 123,
+    "Walker.value": [
+      44,
+      44
+    ],
+    "Walker.derived": [
+      126,
+      126
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      126,
+      126
+    ]
+  },
+  {
+    "global.a": 42,
+    "global.doubled": 84,
+    "global.tripled": 126,
+    "global.selected": 126,
+    "Walker.value": [
+      45,
+      45
+    ],
+    "Walker.derived": [
+      129,
+      129
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      129,
+      129
+    ]
+  },
+  {
+    "global.a": 43,
+    "global.doubled": 86,
+    "global.tripled": 129,
+    "global.selected": 129,
+    "Walker.value": [
+      46,
+      46
+    ],
+    "Walker.derived": [
+      132,
+      132
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      132,
+      132
+    ]
+  },
+  {
+    "global.a": 44,
+    "global.doubled": 88,
+    "global.tripled": 132,
+    "global.selected": 132,
+    "Walker.value": [
+      47,
+      47
+    ],
+    "Walker.derived": [
+      135,
+      135
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      135,
+      135
+    ]
+  },
+  {
+    "global.a": 45,
+    "global.doubled": 90,
+    "global.tripled": 135,
+    "global.selected": 135,
+    "Walker.value": [
+      48,
+      48
+    ],
+    "Walker.derived": [
+      138,
+      138
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      138,
+      138
+    ]
+  },
+  {
+    "global.a": 46,
+    "global.doubled": 92,
+    "global.tripled": 138,
+    "global.selected": 138,
+    "Walker.value": [
+      49,
+      49
+    ],
+    "Walker.derived": [
+      141,
+      141
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      141,
+      141
+    ]
+  },
+  {
+    "global.a": 47,
+    "global.doubled": 94,
+    "global.tripled": 141,
+    "global.selected": 141,
+    "Walker.value": [
+      50,
+      50
+    ],
+    "Walker.derived": [
+      144,
+      144
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      144,
+      144
+    ]
+  },
+  {
+    "global.a": 48,
+    "global.doubled": 96,
+    "global.tripled": 144,
+    "global.selected": 144,
+    "Walker.value": [
+      51,
+      51
+    ],
+    "Walker.derived": [
+      147,
+      147
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      147,
+      147
+    ]
+  },
+  {
+    "global.a": 49,
+    "global.doubled": 98,
+    "global.tripled": 147,
+    "global.selected": 147,
+    "Walker.value": [
+      52,
+      52
+    ],
+    "Walker.derived": [
+      150,
+      150
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      150,
+      150
+    ]
+  },
+  {
+    "global.a": 50,
+    "global.doubled": 100,
+    "global.tripled": 150,
+    "global.selected": 150,
+    "Walker.value": [
+      53,
+      53
+    ],
+    "Walker.derived": [
+      153,
+      153
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      153,
+      153
+    ]
+  },
+  {
+    "global.a": 51,
+    "global.doubled": 102,
+    "global.tripled": 153,
+    "global.selected": 153,
+    "Walker.value": [
+      54,
+      54
+    ],
+    "Walker.derived": [
+      156,
+      156
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      156,
+      156
+    ]
+  },
+  {
+    "global.a": 52,
+    "global.doubled": 104,
+    "global.tripled": 156,
+    "global.selected": 156,
+    "Walker.value": [
+      55,
+      55
+    ],
+    "Walker.derived": [
+      159,
+      159
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      159,
+      159
+    ]
+  },
+  {
+    "global.a": 53,
+    "global.doubled": 106,
+    "global.tripled": 159,
+    "global.selected": 159,
+    "Walker.value": [
+      56,
+      56
+    ],
+    "Walker.derived": [
+      162,
+      162
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      162,
+      162
+    ]
+  },
+  {
+    "global.a": 54,
+    "global.doubled": 108,
+    "global.tripled": 162,
+    "global.selected": 162,
+    "Walker.value": [
+      57,
+      57
+    ],
+    "Walker.derived": [
+      165,
+      165
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      165,
+      165
+    ]
+  },
+  {
+    "global.a": 55,
+    "global.doubled": 110,
+    "global.tripled": 165,
+    "global.selected": 165,
+    "Walker.value": [
+      58,
+      58
+    ],
+    "Walker.derived": [
+      168,
+      168
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      168,
+      168
+    ]
+  },
+  {
+    "global.a": 56,
+    "global.doubled": 112,
+    "global.tripled": 168,
+    "global.selected": 168,
+    "Walker.value": [
+      59,
+      59
+    ],
+    "Walker.derived": [
+      171,
+      171
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      171,
+      171
+    ]
+  },
+  {
+    "global.a": 57,
+    "global.doubled": 114,
+    "global.tripled": 171,
+    "global.selected": 171,
+    "Walker.value": [
+      60,
+      60
+    ],
+    "Walker.derived": [
+      174,
+      174
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      174,
+      174
+    ]
+  },
+  {
+    "global.a": 58,
+    "global.doubled": 116,
+    "global.tripled": 174,
+    "global.selected": 174,
+    "Walker.value": [
+      61,
+      61
+    ],
+    "Walker.derived": [
+      177,
+      177
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      177,
+      177
+    ]
+  },
+  {
+    "global.a": 59,
+    "global.doubled": 118,
+    "global.tripled": 177,
+    "global.selected": 177,
+    "Walker.value": [
+      62,
+      62
+    ],
+    "Walker.derived": [
+      180,
+      180
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      180,
+      180
+    ]
+  },
+  {
+    "global.a": 60,
+    "global.doubled": 120,
+    "global.tripled": 180,
+    "global.selected": 180,
+    "Walker.value": [
+      63,
+      63
+    ],
+    "Walker.derived": [
+      183,
+      183
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      183,
+      183
+    ]
+  },
+  {
+    "global.a": 61,
+    "global.doubled": 122,
+    "global.tripled": 183,
+    "global.selected": 183,
+    "Walker.value": [
+      64,
+      64
+    ],
+    "Walker.derived": [
+      186,
+      186
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      186,
+      186
+    ]
+  },
+  {
+    "global.a": 62,
+    "global.doubled": 124,
+    "global.tripled": 186,
+    "global.selected": 186,
+    "Walker.value": [
+      65,
+      65
+    ],
+    "Walker.derived": [
+      189,
+      189
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      189,
+      189
+    ]
+  },
+  {
+    "global.a": 63,
+    "global.doubled": 126,
+    "global.tripled": 189,
+    "global.selected": 189,
+    "Walker.value": [
+      66,
+      66
+    ],
+    "Walker.derived": [
+      192,
+      192
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      192,
+      192
+    ]
+  },
+  {
+    "global.a": 64,
+    "global.doubled": 128,
+    "global.tripled": 192,
+    "global.selected": 192,
+    "Walker.value": [
+      67,
+      67
+    ],
+    "Walker.derived": [
+      195,
+      195
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      195,
+      195
+    ]
+  },
+  {
+    "global.a": 65,
+    "global.doubled": 130,
+    "global.tripled": 195,
+    "global.selected": 195,
+    "Walker.value": [
+      68,
+      68
+    ],
+    "Walker.derived": [
+      198,
+      198
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      198,
+      198
+    ]
+  },
+  {
+    "global.a": 66,
+    "global.doubled": 132,
+    "global.tripled": 198,
+    "global.selected": 198,
+    "Walker.value": [
+      69,
+      69
+    ],
+    "Walker.derived": [
+      201,
+      201
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      201,
+      201
+    ]
+  },
+  {
+    "global.a": 67,
+    "global.doubled": 134,
+    "global.tripled": 201,
+    "global.selected": 201,
+    "Walker.value": [
+      70,
+      70
+    ],
+    "Walker.derived": [
+      204,
+      204
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      204,
+      204
+    ]
+  },
+  {
+    "global.a": 68,
+    "global.doubled": 136,
+    "global.tripled": 204,
+    "global.selected": 204,
+    "Walker.value": [
+      71,
+      71
+    ],
+    "Walker.derived": [
+      207,
+      207
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      207,
+      207
+    ]
+  },
+  {
+    "global.a": 69,
+    "global.doubled": 138,
+    "global.tripled": 207,
+    "global.selected": 207,
+    "Walker.value": [
+      72,
+      72
+    ],
+    "Walker.derived": [
+      210,
+      210
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      210,
+      210
+    ]
+  },
+  {
+    "global.a": 70,
+    "global.doubled": 140,
+    "global.tripled": 210,
+    "global.selected": 210,
+    "Walker.value": [
+      73,
+      73
+    ],
+    "Walker.derived": [
+      213,
+      213
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      213,
+      213
+    ]
+  },
+  {
+    "global.a": 71,
+    "global.doubled": 142,
+    "global.tripled": 213,
+    "global.selected": 213,
+    "Walker.value": [
+      74,
+      74
+    ],
+    "Walker.derived": [
+      216,
+      216
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      216,
+      216
+    ]
+  },
+  {
+    "global.a": 72,
+    "global.doubled": 144,
+    "global.tripled": 216,
+    "global.selected": 216,
+    "Walker.value": [
+      75,
+      75
+    ],
+    "Walker.derived": [
+      219,
+      219
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      219,
+      219
+    ]
+  },
+  {
+    "global.a": 73,
+    "global.doubled": 146,
+    "global.tripled": 219,
+    "global.selected": 219,
+    "Walker.value": [
+      76,
+      76
+    ],
+    "Walker.derived": [
+      222,
+      222
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      222,
+      222
+    ]
+  },
+  {
+    "global.a": 74,
+    "global.doubled": 148,
+    "global.tripled": 222,
+    "global.selected": 222,
+    "Walker.value": [
+      77,
+      77
+    ],
+    "Walker.derived": [
+      225,
+      225
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      225,
+      225
+    ]
+  },
+  {
+    "global.a": 75,
+    "global.doubled": 150,
+    "global.tripled": 225,
+    "global.selected": 225,
+    "Walker.value": [
+      78,
+      78
+    ],
+    "Walker.derived": [
+      228,
+      228
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      228,
+      228
+    ]
+  },
+  {
+    "global.a": 76,
+    "global.doubled": 152,
+    "global.tripled": 228,
+    "global.selected": 228,
+    "Walker.value": [
+      79,
+      79
+    ],
+    "Walker.derived": [
+      231,
+      231
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      231,
+      231
+    ]
+  },
+  {
+    "global.a": 77,
+    "global.doubled": 154,
+    "global.tripled": 231,
+    "global.selected": 231,
+    "Walker.value": [
+      80,
+      80
+    ],
+    "Walker.derived": [
+      234,
+      234
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      234,
+      234
+    ]
+  },
+  {
+    "global.a": 78,
+    "global.doubled": 156,
+    "global.tripled": 234,
+    "global.selected": 234,
+    "Walker.value": [
+      81,
+      81
+    ],
+    "Walker.derived": [
+      237,
+      237
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      237,
+      237
+    ]
+  },
+  {
+    "global.a": 79,
+    "global.doubled": 158,
+    "global.tripled": 237,
+    "global.selected": 237,
+    "Walker.value": [
+      82,
+      82
+    ],
+    "Walker.derived": [
+      240,
+      240
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      240,
+      240
+    ]
+  },
+  {
+    "global.a": 80,
+    "global.doubled": 160,
+    "global.tripled": 240,
+    "global.selected": 240,
+    "Walker.value": [
+      83,
+      83
+    ],
+    "Walker.derived": [
+      243,
+      243
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      243,
+      243
+    ]
+  },
+  {
+    "global.a": 81,
+    "global.doubled": 162,
+    "global.tripled": 243,
+    "global.selected": 243,
+    "Walker.value": [
+      84,
+      84
+    ],
+    "Walker.derived": [
+      246,
+      246
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      246,
+      246
+    ]
+  },
+  {
+    "global.a": 82,
+    "global.doubled": 164,
+    "global.tripled": 246,
+    "global.selected": 246,
+    "Walker.value": [
+      85,
+      85
+    ],
+    "Walker.derived": [
+      249,
+      249
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      249,
+      249
+    ]
+  },
+  {
+    "global.a": 83,
+    "global.doubled": 166,
+    "global.tripled": 249,
+    "global.selected": 249,
+    "Walker.value": [
+      86,
+      86
+    ],
+    "Walker.derived": [
+      252,
+      252
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      252,
+      252
+    ]
+  },
+  {
+    "global.a": 84,
+    "global.doubled": 168,
+    "global.tripled": 252,
+    "global.selected": 252,
+    "Walker.value": [
+      87,
+      87
+    ],
+    "Walker.derived": [
+      255,
+      255
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      255,
+      255
+    ]
+  },
+  {
+    "global.a": 85,
+    "global.doubled": 170,
+    "global.tripled": 255,
+    "global.selected": 255,
+    "Walker.value": [
+      88,
+      88
+    ],
+    "Walker.derived": [
+      258,
+      258
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      258,
+      258
+    ]
+  },
+  {
+    "global.a": 86,
+    "global.doubled": 172,
+    "global.tripled": 258,
+    "global.selected": 258,
+    "Walker.value": [
+      89,
+      89
+    ],
+    "Walker.derived": [
+      261,
+      261
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      261,
+      261
+    ]
+  },
+  {
+    "global.a": 87,
+    "global.doubled": 174,
+    "global.tripled": 261,
+    "global.selected": 261,
+    "Walker.value": [
+      90,
+      90
+    ],
+    "Walker.derived": [
+      264,
+      264
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      264,
+      264
+    ]
+  },
+  {
+    "global.a": 88,
+    "global.doubled": 176,
+    "global.tripled": 264,
+    "global.selected": 264,
+    "Walker.value": [
+      91,
+      91
+    ],
+    "Walker.derived": [
+      267,
+      267
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      267,
+      267
+    ]
+  },
+  {
+    "global.a": 89,
+    "global.doubled": 178,
+    "global.tripled": 267,
+    "global.selected": 267,
+    "Walker.value": [
+      92,
+      92
+    ],
+    "Walker.derived": [
+      270,
+      270
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      270,
+      270
+    ]
+  },
+  {
+    "global.a": 90,
+    "global.doubled": 180,
+    "global.tripled": 270,
+    "global.selected": 270,
+    "Walker.value": [
+      93,
+      93
+    ],
+    "Walker.derived": [
+      273,
+      273
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      273,
+      273
+    ]
+  },
+  {
+    "global.a": 91,
+    "global.doubled": 182,
+    "global.tripled": 273,
+    "global.selected": 273,
+    "Walker.value": [
+      94,
+      94
+    ],
+    "Walker.derived": [
+      276,
+      276
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      276,
+      276
+    ]
+  },
+  {
+    "global.a": 92,
+    "global.doubled": 184,
+    "global.tripled": 276,
+    "global.selected": 276,
+    "Walker.value": [
+      95,
+      95
+    ],
+    "Walker.derived": [
+      279,
+      279
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      279,
+      279
+    ]
+  },
+  {
+    "global.a": 93,
+    "global.doubled": 186,
+    "global.tripled": 279,
+    "global.selected": 279,
+    "Walker.value": [
+      96,
+      96
+    ],
+    "Walker.derived": [
+      282,
+      282
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      282,
+      282
+    ]
+  },
+  {
+    "global.a": 94,
+    "global.doubled": 188,
+    "global.tripled": 282,
+    "global.selected": 282,
+    "Walker.value": [
+      97,
+      97
+    ],
+    "Walker.derived": [
+      285,
+      285
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      285,
+      285
+    ]
+  },
+  {
+    "global.a": 95,
+    "global.doubled": 190,
+    "global.tripled": 285,
+    "global.selected": 285,
+    "Walker.value": [
+      98,
+      98
+    ],
+    "Walker.derived": [
+      288,
+      288
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      288,
+      288
+    ]
+  },
+  {
+    "global.a": 96,
+    "global.doubled": 192,
+    "global.tripled": 288,
+    "global.selected": 288,
+    "Walker.value": [
+      99,
+      99
+    ],
+    "Walker.derived": [
+      291,
+      291
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      291,
+      291
+    ]
+  },
+  {
+    "global.a": 97,
+    "global.doubled": 194,
+    "global.tripled": 291,
+    "global.selected": 291,
+    "Walker.value": [
+      100,
+      100
+    ],
+    "Walker.derived": [
+      294,
+      294
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      294,
+      294
+    ]
+  },
+  {
+    "global.a": 98,
+    "global.doubled": 196,
+    "global.tripled": 294,
+    "global.selected": 294,
+    "Walker.value": [
+      101,
+      101
+    ],
+    "Walker.derived": [
+      297,
+      297
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      297,
+      297
+    ]
+  },
+  {
+    "global.a": 99,
+    "global.doubled": 198,
+    "global.tripled": 297,
+    "global.selected": 297,
+    "Walker.value": [
+      102,
+      102
+    ],
+    "Walker.derived": [
+      300,
+      300
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      300,
+      300
+    ]
+  },
+  {
+    "global.a": 100,
+    "global.doubled": 200,
+    "global.tripled": 300,
+    "global.selected": 300,
+    "Walker.value": [
+      103,
+      103
+    ],
+    "Walker.derived": [
+      303,
+      303
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      303,
+      303
+    ]
+  },
+  {
+    "global.a": 101,
+    "global.doubled": 202,
+    "global.tripled": 303,
+    "global.selected": 303,
+    "Walker.value": [
+      104,
+      104
+    ],
+    "Walker.derived": [
+      306,
+      306
+    ],
+    "Walker.high": [
+      true,
+      true
+    ],
+    "Walker.selected": [
+      306,
+      306
+    ]
+  }
+]

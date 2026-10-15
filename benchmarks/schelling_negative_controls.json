@@ -1,0 +1,14 @@
+{
+  "rng": [
+    "reflex migrate when: !is_happy {",
+    "reflex migrate when: !is_happy { if flip(1.0) {}"
+  ],
+  "selection": [
+    "free_places << my_place;\n\t\t//Change the place of the agent\n\t\tmy_place <- one_of(free_places);",
+    "free_places << my_place;\n\t\t//Change the place of the agent\n\t\tmy_place <- first(free_places);"
+  ],
+  "lifecycle": [
+    "reflex migrate when: !is_happy {",
+    "reflex migrate when: !is_happy { do die;"
+  ]
+}

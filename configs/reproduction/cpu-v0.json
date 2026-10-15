@@ -1,0 +1,15 @@
+{
+  "description": "New CPU reproduction using the compiler in this checkout; not a replay of all historical frozen compiler versions.",
+  "steps": 100,
+  "optimization": "fusion-avx-batch",
+  "seeds": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+  "repetitions": 3,
+  "capacities": {
+    "sir_spatial": {"Host": 576},
+    "schelling": {},
+    "boids": {},
+    "traffic": {},
+    "predator_prey": {"prey": 450, "predator": 100},
+    "ants": {}
+  }
+}

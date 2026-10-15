@@ -1,0 +1,14 @@
+iniconfig==2.3.1
+jax==0.6.2
+jaxlib==0.6.2
+ml_dtypes==0.6.0
+numpy==2.5.4
+opt_einsum==3.4.0
+packaging==26.3
+pillow==11.3.0
+pluggy==1.6.0
+psutil==7.1.0
+Pygments==2.21.0
+pytest==8.4.2
+scipy==1.18.1
+websocket-client==1.9.0

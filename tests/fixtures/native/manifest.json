@@ -1,0 +1,1167 @@
+{
+  "description": "Curated native GAMA/Java reference fixtures used by regression tests. Original raw archives are not modified. Extracted data do not prove independent generalization.",
+  "files": [
+    {
+      "file": "accumulation-native-probe-2026-10-13/accumulated_neighbors/2/gama_trace.json",
+      "sha256": "6611dc25bd0aa9d6a0f077ed56387345856e4251ac0a6afa9544a1d668b4ddfe",
+      "original_archive_path": "results/accumulation-native-probe-2026-10-13/accumulated_neighbors/2/gama_trace.json",
+      "original_sha256": "6611dc25bd0aa9d6a0f077ed56387345856e4251ac0a6afa9544a1d668b4ddfe",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "computed-attributes-coupled-native-b-2026-10-13/computed_attributes/2/gama_trace.json",
+      "sha256": "2805c6a589bfbdfb47c54e5550ba8f0165484c08cb0402d118f01f6a86146247",
+      "original_archive_path": "results/computed-attributes-coupled-native-b-2026-10-13/computed_attributes/2/gama_trace.json",
+      "original_sha256": "2805c6a589bfbdfb47c54e5550ba8f0165484c08cb0402d118f01f6a86146247",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "computed-attributes-coupled-native-b-2026-10-13/computed_attributes/2/gama_identities.json",
+      "sha256": "7e64d81b261f1b5ed615d99e1f7e73b58089c67bbdefc1587de679a1864b5b4f",
+      "original_archive_path": "results/computed-attributes-coupled-native-b-2026-10-13/computed_attributes/2/gama_identities.json",
+      "original_sha256": "7e64d81b261f1b5ed615d99e1f7e73b58089c67bbdefc1587de679a1864b5b4f",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "declaration-facets-probe-2026-10-13/declaration_facets/1/gama_trace.json",
+      "sha256": "f021808cb61f5225032114ba33c910015acc9918abb484583b9d9516aa20b57e",
+      "original_archive_path": "results/declaration-facets-probe-2026-10-13/declaration_facets/1/gama_trace.json",
+      "original_sha256": "f021808cb61f5225032114ba33c910015acc9918abb484583b9d9516aa20b57e",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/5/gama_trace.json",
+      "sha256": "086175ebab14ae322a970f355cdbf9c946acd096f1ee6490de6e94b74514eb88",
+      "original_archive_path": "results/dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/5/gama_trace.json",
+      "original_sha256": "086175ebab14ae322a970f355cdbf9c946acd096f1ee6490de6e94b74514eb88",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/5/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/5/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/9/gama_trace.json",
+      "sha256": "a407ca2c70f183b120ab2e94ca6c0b5c9a98626f365d2888822eb3aa9979cb1a",
+      "original_archive_path": "results/dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/9/gama_trace.json",
+      "original_sha256": "a407ca2c70f183b120ab2e94ca6c0b5c9a98626f365d2888822eb3aa9979cb1a",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/9/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/9/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/4/gama_trace.json",
+      "sha256": "5962e6acfc2d3fd15105424e7c105b9a0920337e4bc7b6ecb24a9ac052517b38",
+      "original_archive_path": "results/dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/4/gama_trace.json",
+      "original_sha256": "5962e6acfc2d3fd15105424e7c105b9a0920337e4bc7b6ecb24a9ac052517b38",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/4/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/4/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/1/gama_trace.json",
+      "sha256": "5d2a863f23e3d4d2fe345c1fc4e2756106a08f02c8caf0250e6013caef68331b",
+      "original_archive_path": "results/dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/1/gama_trace.json",
+      "original_sha256": "5d2a863f23e3d4d2fe345c1fc4e2756106a08f02c8caf0250e6013caef68331b",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/1/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/1/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/6/gama_trace.json",
+      "sha256": "190b2c9ada53c8e5f139b1270aaf3a2de340d6ac202656f57deea6d29ec1fa1a",
+      "original_archive_path": "results/dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/6/gama_trace.json",
+      "original_sha256": "190b2c9ada53c8e5f139b1270aaf3a2de340d6ac202656f57deea6d29ec1fa1a",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/6/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/6/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/3/gama_trace.json",
+      "sha256": "4602dac6e30fbcdc60c48fffaeff935562d54e331e92e768ba8602047cd4b3d5",
+      "original_archive_path": "results/dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/3/gama_trace.json",
+      "original_sha256": "4602dac6e30fbcdc60c48fffaeff935562d54e331e92e768ba8602047cd4b3d5",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/3/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/3/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/7/gama_trace.json",
+      "sha256": "1b6d65a159a1420f6aec316c15b714da0daef576d2caea21110144d54b058a71",
+      "original_archive_path": "results/dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/7/gama_trace.json",
+      "original_sha256": "1b6d65a159a1420f6aec316c15b714da0daef576d2caea21110144d54b058a71",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/7/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/7/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/10/gama_trace.json",
+      "sha256": "c7693b8bbeb37ba502555b73e6a7ca72a26bb545d562ad6cdb243b135d26d7fd",
+      "original_archive_path": "results/dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/10/gama_trace.json",
+      "original_sha256": "c7693b8bbeb37ba502555b73e6a7ca72a26bb545d562ad6cdb243b135d26d7fd",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/10/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/10/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/8/gama_trace.json",
+      "sha256": "ac62a10b711f138b57286958ebdec39b3975e01219ea826de0ec9e894e986a53",
+      "original_archive_path": "results/dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/8/gama_trace.json",
+      "original_sha256": "ac62a10b711f138b57286958ebdec39b3975e01219ea826de0ec9e894e986a53",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/8/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/8/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/2/gama_trace.json",
+      "sha256": "39a78487c8bf6e1778e7f845a794de9f22571254c1422f8992b215cc7246d80c",
+      "original_archive_path": "results/dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/2/gama_trace.json",
+      "original_sha256": "39a78487c8bf6e1778e7f845a794de9f22571254c1422f8992b215cc7246d80c",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/2/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/dynamic-random-bounds-native-2026-10-13/dynamic_random_bounds/2/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "grid-species-order-native-coupled-2026-10-13/grid_species_order/2/gama_trace.json",
+      "sha256": "6cce406caf3b74063f7782c01e36b0a0179344c13e2412026fc2b49bf7ba7941",
+      "original_archive_path": "results/grid-species-order-native-coupled-2026-10-13/grid_species_order/2/gama_trace.json",
+      "original_sha256": "6cce406caf3b74063f7782c01e36b0a0179344c13e2412026fc2b49bf7ba7941",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "grid-species-order-native-coupled-2026-10-13/grid_species_order/2/gama_identities.json",
+      "sha256": "4c9c5d8ed86ff7ef0bd2c4332838911159c4eeeadc91951a67c5744ba420ef9e",
+      "original_archive_path": "results/grid-species-order-native-coupled-2026-10-13/grid_species_order/2/gama_identities.json",
+      "original_sha256": "4c9c5d8ed86ff7ef0bd2c4332838911159c4eeeadc91951a67c5744ba420ef9e",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "import-overrides-coupled-native-2026-10-13/import_overrides/2/gama_trace.json",
+      "sha256": "7f118545514853a22b79496de2657e4bc595fa3aa453ab741c62d2596ef3d482",
+      "original_archive_path": "results/import-overrides-coupled-native-2026-10-13/import_overrides/2/gama_trace.json",
+      "original_sha256": "7f118545514853a22b79496de2657e4bc595fa3aa453ab741c62d2596ef3d482",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "import-overrides-coupled-native-2026-10-13/import_overrides/2/gama_identities.json",
+      "sha256": "cb53d1dffdae3a1e1a360b76ed0db67078287a1534d3e7aa1872fa898e151269",
+      "original_archive_path": "results/import-overrides-coupled-native-2026-10-13/import_overrides/2/gama_identities.json",
+      "original_sha256": "cb53d1dffdae3a1e1a360b76ed0db67078287a1534d3e7aa1872fa898e151269",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "inheritance-coupled-native-probe-2026-10-13/inheritance_rules/2/gama_trace.json",
+      "sha256": "2e3429df81c888f55f78804ef1e27127ff7bda16817bd0be5d5852d8694636b1",
+      "original_archive_path": "results/inheritance-coupled-native-probe-2026-10-13/inheritance_rules/2/gama_trace.json",
+      "original_sha256": "2e3429df81c888f55f78804ef1e27127ff7bda16817bd0be5d5852d8694636b1",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "inheritance-coupled-native-probe-2026-10-13/inheritance_rules/2/gama_identities.json",
+      "sha256": "15d50733bd4c1413a83d7419e40e6fc58f440a87dfe34aa15e39698020c0f571",
+      "original_archive_path": "results/inheritance-coupled-native-probe-2026-10-13/inheritance_rules/2/gama_identities.json",
+      "original_sha256": "15d50733bd4c1413a83d7419e40e6fc58f440a87dfe34aa15e39698020c0f571",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "lifecycle-native-probe-b-2026-10-13/agent_lifecycle/2/gama_trace.json",
+      "sha256": "02fb74415f965d9834a16cb9a8ada7ac9209f974bdc2fb264ac4ea82f70da89e",
+      "original_archive_path": "results/lifecycle-native-probe-b-2026-10-13/agent_lifecycle/2/gama_trace.json",
+      "original_sha256": "02fb74415f965d9834a16cb9a8ada7ac9209f974bdc2fb264ac4ea82f70da89e",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "lifecycle-native-probe-b-2026-10-13/agent_lifecycle/2/gama_identities.json",
+      "sha256": "6beca61fbcfdc85db25f608bbc4d8cf64aaa05474a41a5e0a3009fcceb39a6c8",
+      "original_archive_path": "results/lifecycle-native-probe-b-2026-10-13/agent_lifecycle/2/gama_identities.json",
+      "original_sha256": "6beca61fbcfdc85db25f608bbc4d8cf64aaa05474a41a5e0a3009fcceb39a6c8",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/5/gama_trace.json",
+      "sha256": "391e909d7a148be78dbc0bb96ee966aafc6a7ff2b3a1bb9b49c3161ad12fd44b",
+      "original_archive_path": "results/list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/5/gama_trace.json",
+      "original_sha256": "391e909d7a148be78dbc0bb96ee966aafc6a7ff2b3a1bb9b49c3161ad12fd44b",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/5/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/5/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/9/gama_trace.json",
+      "sha256": "5ea4aedfe78ab5447531260d45ae23304c89cc9b77db6d60a7c8df2f7ea007bc",
+      "original_archive_path": "results/list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/9/gama_trace.json",
+      "original_sha256": "5ea4aedfe78ab5447531260d45ae23304c89cc9b77db6d60a7c8df2f7ea007bc",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/9/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/9/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/4/gama_trace.json",
+      "sha256": "48e257453fe018589cb5a8b8cc3a78ddb3cc35e1dfc0302431de544b31e43b02",
+      "original_archive_path": "results/list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/4/gama_trace.json",
+      "original_sha256": "48e257453fe018589cb5a8b8cc3a78ddb3cc35e1dfc0302431de544b31e43b02",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/4/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/4/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/1/gama_trace.json",
+      "sha256": "04a6e9cb22aa01014e188ec45bfc3875e564ca8e2aa1500b837b9ebf6641bff9",
+      "original_archive_path": "results/list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/1/gama_trace.json",
+      "original_sha256": "04a6e9cb22aa01014e188ec45bfc3875e564ca8e2aa1500b837b9ebf6641bff9",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/1/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/1/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/6/gama_trace.json",
+      "sha256": "e0b37e47399d6e26e76e3c1868365c37156f01f635794461373019e46f1f4a26",
+      "original_archive_path": "results/list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/6/gama_trace.json",
+      "original_sha256": "e0b37e47399d6e26e76e3c1868365c37156f01f635794461373019e46f1f4a26",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/6/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/6/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/3/gama_trace.json",
+      "sha256": "5f892b5b378fa18b3b5ce199fa58b5a73a7c1697e6e369097bf1cc8bb59895f3",
+      "original_archive_path": "results/list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/3/gama_trace.json",
+      "original_sha256": "5f892b5b378fa18b3b5ce199fa58b5a73a7c1697e6e369097bf1cc8bb59895f3",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/3/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/3/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/7/gama_trace.json",
+      "sha256": "40ad8678c67b6f77ca95906bb0ca45d94e8c15dfab73d1c3dd9f6d7d4834fcb8",
+      "original_archive_path": "results/list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/7/gama_trace.json",
+      "original_sha256": "40ad8678c67b6f77ca95906bb0ca45d94e8c15dfab73d1c3dd9f6d7d4834fcb8",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/7/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/7/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/10/gama_trace.json",
+      "sha256": "fc7811b61119c8fef4022d3454bfb2cc90f69447620336a749efa255d0941f63",
+      "original_archive_path": "results/list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/10/gama_trace.json",
+      "original_sha256": "fc7811b61119c8fef4022d3454bfb2cc90f69447620336a749efa255d0941f63",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/10/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/10/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/8/gama_trace.json",
+      "sha256": "239aa92aa5217c6abf18dbd28fbbd686ceb72fa3f80ed0668a83c9979812350f",
+      "original_archive_path": "results/list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/8/gama_trace.json",
+      "original_sha256": "239aa92aa5217c6abf18dbd28fbbd686ceb72fa3f80ed0668a83c9979812350f",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/8/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/8/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/2/gama_trace.json",
+      "sha256": "0f92f393bfce95119ede12475d313cca5da1cda61a3eafb72d0bd7cb89ae4c0b",
+      "original_archive_path": "results/list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/2/gama_trace.json",
+      "original_sha256": "0f92f393bfce95119ede12475d313cca5da1cda61a3eafb72d0bd7cb89ae4c0b",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/2/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/list-aliases-ten-seeds-coupled-2026-10-13/list_aliases/2/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mersenne-initialization-corrected-2026-10-13/mersenne_initialization/5/gama_trace.json",
+      "sha256": "ceb2740cd0e24f2932314b50d687ba66af28e0f6159fdb52d6d790792eee3613",
+      "original_archive_path": "results/mersenne-initialization-corrected-2026-10-13/mersenne_initialization/5/gama_trace.json",
+      "original_sha256": "ceb2740cd0e24f2932314b50d687ba66af28e0f6159fdb52d6d790792eee3613",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mersenne-initialization-corrected-2026-10-13/mersenne_initialization/9/gama_trace.json",
+      "sha256": "618477cbfa2b992283e2dfed3e9ba28d7a4d036cc42624ca0d486d8eaf930b45",
+      "original_archive_path": "results/mersenne-initialization-corrected-2026-10-13/mersenne_initialization/9/gama_trace.json",
+      "original_sha256": "618477cbfa2b992283e2dfed3e9ba28d7a4d036cc42624ca0d486d8eaf930b45",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mersenne-initialization-corrected-2026-10-13/mersenne_initialization/4/gama_trace.json",
+      "sha256": "27e7e55739c317e01d15d47eac02d5d9e5841799ec3a37818801fc340db6c8d9",
+      "original_archive_path": "results/mersenne-initialization-corrected-2026-10-13/mersenne_initialization/4/gama_trace.json",
+      "original_sha256": "27e7e55739c317e01d15d47eac02d5d9e5841799ec3a37818801fc340db6c8d9",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mersenne-initialization-corrected-2026-10-13/mersenne_initialization/1/gama_trace.json",
+      "sha256": "c52d7bac2150a95b8fa2cea4172042d73f1df498ac3137feaf84fbd1f1d635ab",
+      "original_archive_path": "results/mersenne-initialization-corrected-2026-10-13/mersenne_initialization/1/gama_trace.json",
+      "original_sha256": "c52d7bac2150a95b8fa2cea4172042d73f1df498ac3137feaf84fbd1f1d635ab",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mersenne-initialization-corrected-2026-10-13/mersenne_initialization/6/gama_trace.json",
+      "sha256": "6df032204c53851b1ceea45e0bcc702622bf9a3e923e280faef993f5f3613f6c",
+      "original_archive_path": "results/mersenne-initialization-corrected-2026-10-13/mersenne_initialization/6/gama_trace.json",
+      "original_sha256": "6df032204c53851b1ceea45e0bcc702622bf9a3e923e280faef993f5f3613f6c",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mersenne-initialization-corrected-2026-10-13/mersenne_initialization/3/gama_trace.json",
+      "sha256": "eb3c0283158975ad3c31361a9085fb11c549d41039abe6c06afdbe5b59c1c23c",
+      "original_archive_path": "results/mersenne-initialization-corrected-2026-10-13/mersenne_initialization/3/gama_trace.json",
+      "original_sha256": "eb3c0283158975ad3c31361a9085fb11c549d41039abe6c06afdbe5b59c1c23c",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mersenne-initialization-corrected-2026-10-13/mersenne_initialization/7/gama_trace.json",
+      "sha256": "eb0415cd8c9c67cdc5ad514fcb66dcd3cf033535a6290346f748eaf683dcc243",
+      "original_archive_path": "results/mersenne-initialization-corrected-2026-10-13/mersenne_initialization/7/gama_trace.json",
+      "original_sha256": "eb0415cd8c9c67cdc5ad514fcb66dcd3cf033535a6290346f748eaf683dcc243",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mersenne-initialization-corrected-2026-10-13/mersenne_initialization/10/gama_trace.json",
+      "sha256": "a6640cac07d20dbfdd99921ef4306347eb2866aa1d8c04ad1da34a16eceb38f5",
+      "original_archive_path": "results/mersenne-initialization-corrected-2026-10-13/mersenne_initialization/10/gama_trace.json",
+      "original_sha256": "a6640cac07d20dbfdd99921ef4306347eb2866aa1d8c04ad1da34a16eceb38f5",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mersenne-initialization-corrected-2026-10-13/mersenne_initialization/8/gama_trace.json",
+      "sha256": "1e32f938e4eff99b6f09f12ccd9a932fcbf6c407b0d1fb81b53122cf63af99dc",
+      "original_archive_path": "results/mersenne-initialization-corrected-2026-10-13/mersenne_initialization/8/gama_trace.json",
+      "original_sha256": "1e32f938e4eff99b6f09f12ccd9a932fcbf6c407b0d1fb81b53122cf63af99dc",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mersenne-initialization-corrected-2026-10-13/mersenne_initialization/2/gama_trace.json",
+      "sha256": "fefb08b11ebb860c509f62de708b82be5e9d4049821ae424d19563dc692228ab",
+      "original_archive_path": "results/mersenne-initialization-corrected-2026-10-13/mersenne_initialization/2/gama_trace.json",
+      "original_sha256": "fefb08b11ebb860c509f62de708b82be5e9d4049821ae424d19563dc692228ab",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/5/gama_trace.json",
+      "sha256": "4a437d3c21430e7f716dcb87f18c6ca781303f7693ade8887e2308489dda0748",
+      "original_archive_path": "results/mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/5/gama_trace.json",
+      "original_sha256": "4a437d3c21430e7f716dcb87f18c6ca781303f7693ade8887e2308489dda0748",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/5/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/5/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/9/gama_trace.json",
+      "sha256": "2a7c2c78593fb6c1faf471baf89e525ae9143881322826f89c7d3009c9ee65f9",
+      "original_archive_path": "results/mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/9/gama_trace.json",
+      "original_sha256": "2a7c2c78593fb6c1faf471baf89e525ae9143881322826f89c7d3009c9ee65f9",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/9/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/9/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/4/gama_trace.json",
+      "sha256": "e6d7080bf786d71d789dbab7bc0963ed2eedd89860472d0a80680acfe6e786ce",
+      "original_archive_path": "results/mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/4/gama_trace.json",
+      "original_sha256": "e6d7080bf786d71d789dbab7bc0963ed2eedd89860472d0a80680acfe6e786ce",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/4/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/4/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/1/gama_trace.json",
+      "sha256": "f8044de3e20f15c0735c51359b9659220201d75d98e14c7a3bd887ceadc343b3",
+      "original_archive_path": "results/mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/1/gama_trace.json",
+      "original_sha256": "f8044de3e20f15c0735c51359b9659220201d75d98e14c7a3bd887ceadc343b3",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/1/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/1/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/6/gama_trace.json",
+      "sha256": "8020d3a5b584178111cbfa4147acaf99f2e11b70ff50c58953c5091ac3242413",
+      "original_archive_path": "results/mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/6/gama_trace.json",
+      "original_sha256": "8020d3a5b584178111cbfa4147acaf99f2e11b70ff50c58953c5091ac3242413",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/6/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/6/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/3/gama_trace.json",
+      "sha256": "d692ed126656f7e8cdc90c89e356e56eeb8b09df1e59508ceb278ea24c861e3c",
+      "original_archive_path": "results/mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/3/gama_trace.json",
+      "original_sha256": "d692ed126656f7e8cdc90c89e356e56eeb8b09df1e59508ceb278ea24c861e3c",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/3/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/3/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/7/gama_trace.json",
+      "sha256": "50c02c44c94674fbf76b3d4b9fe577a21abbe866a6d3c3134e79476e90bdf258",
+      "original_archive_path": "results/mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/7/gama_trace.json",
+      "original_sha256": "50c02c44c94674fbf76b3d4b9fe577a21abbe866a6d3c3134e79476e90bdf258",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/7/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/7/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/10/gama_trace.json",
+      "sha256": "70f73470bf4f059b6ac51c08fc6440d6b7410100b30ae4af4ead4e6b11790725",
+      "original_archive_path": "results/mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/10/gama_trace.json",
+      "original_sha256": "70f73470bf4f059b6ac51c08fc6440d6b7410100b30ae4af4ead4e6b11790725",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/10/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/10/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/8/gama_trace.json",
+      "sha256": "3a795461eecb9708299d1966aa9945a6200606b934f4e667879865c71b3e6153",
+      "original_archive_path": "results/mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/8/gama_trace.json",
+      "original_sha256": "3a795461eecb9708299d1966aa9945a6200606b934f4e667879865c71b3e6153",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/8/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/8/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/2/gama_trace.json",
+      "sha256": "696d0c683d2ec62b46ae6407b7eab5e903226aed0024fecad94d60c2982e140d",
+      "original_archive_path": "results/mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/2/gama_trace.json",
+      "original_sha256": "696d0c683d2ec62b46ae6407b7eab5e903226aed0024fecad94d60c2982e140d",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/2/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/mutable-lists-shuffle-ten-seeds-2026-10-13/mutable_lists_shuffle/2/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "native-atan-bit-contract-2026-10-13/inputs.txt",
+      "sha256": "70c32e2cdc56b33e4919df41531bcbb1721e0d91a832853576de85e2206f84f5",
+      "original_archive_path": "results/native-atan-bit-contract-2026-10-13/inputs.txt",
+      "original_sha256": "70c32e2cdc56b33e4919df41531bcbb1721e0d91a832853576de85e2206f84f5",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "native-atan-bit-contract-2026-10-13/java_bits.txt",
+      "sha256": "97dce350ce8db568e03d4deaa50a34a67aebb32ffcea0711dfab322a3d043d1e",
+      "original_archive_path": "results/native-atan-bit-contract-2026-10-13/java_bits.txt",
+      "original_sha256": "97dce350ce8db568e03d4deaa50a34a67aebb32ffcea0711dfab322a3d043d1e",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "parameter-grid-coupled-native-2026-10-13/parameter_grid/2/gama_trace.json",
+      "sha256": "8978a64a7ab24f43098d336894832cc7a31bcb981c53c9c44e519f806cd875ea",
+      "original_archive_path": "results/parameter-grid-coupled-native-2026-10-13/parameter_grid/2/gama_trace.json",
+      "original_sha256": "8978a64a7ab24f43098d336894832cc7a31bcb981c53c9c44e519f806cd875ea",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "parameter-grid-coupled-native-2026-10-13/parameter_grid/2/gama_identities.json",
+      "sha256": "13fffbb4cd1efec64b269b8756cd3f74748bbd7f21f95fc7d0327f710f6d97a0",
+      "original_archive_path": "results/parameter-grid-coupled-native-2026-10-13/parameter_grid/2/gama_identities.json",
+      "original_sha256": "13fffbb4cd1efec64b269b8756cd3f74748bbd7f21f95fc7d0327f710f6d97a0",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "random-getters-ten-seeds-coupled-2026-10-13/random_getters/5/gama_trace.json",
+      "sha256": "a1803ece05cd728d28949229308e93f1a6aae71c1ff685eb20f980772fd1d9f9",
+      "original_archive_path": "results/random-getters-ten-seeds-coupled-2026-10-13/random_getters/5/gama_trace.json",
+      "original_sha256": "a1803ece05cd728d28949229308e93f1a6aae71c1ff685eb20f980772fd1d9f9",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "random-getters-ten-seeds-coupled-2026-10-13/random_getters/5/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/random-getters-ten-seeds-coupled-2026-10-13/random_getters/5/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "random-getters-ten-seeds-coupled-2026-10-13/random_getters/9/gama_trace.json",
+      "sha256": "81f865a04609aee37f49d814ed86ac42c12af2b5308c90459addca7715118424",
+      "original_archive_path": "results/random-getters-ten-seeds-coupled-2026-10-13/random_getters/9/gama_trace.json",
+      "original_sha256": "81f865a04609aee37f49d814ed86ac42c12af2b5308c90459addca7715118424",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "random-getters-ten-seeds-coupled-2026-10-13/random_getters/9/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/random-getters-ten-seeds-coupled-2026-10-13/random_getters/9/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "random-getters-ten-seeds-coupled-2026-10-13/random_getters/4/gama_trace.json",
+      "sha256": "b42a9b21a8c51d34f2ff081ede870ae1fa0aca255544e2a466226253455c2d7f",
+      "original_archive_path": "results/random-getters-ten-seeds-coupled-2026-10-13/random_getters/4/gama_trace.json",
+      "original_sha256": "b42a9b21a8c51d34f2ff081ede870ae1fa0aca255544e2a466226253455c2d7f",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "random-getters-ten-seeds-coupled-2026-10-13/random_getters/4/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/random-getters-ten-seeds-coupled-2026-10-13/random_getters/4/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "random-getters-ten-seeds-coupled-2026-10-13/random_getters/1/gama_trace.json",
+      "sha256": "f23dcd08db2be978e103b901fb802df55b827f79459d9bc64cd0ea44b45761ba",
+      "original_archive_path": "results/random-getters-ten-seeds-coupled-2026-10-13/random_getters/1/gama_trace.json",
+      "original_sha256": "f23dcd08db2be978e103b901fb802df55b827f79459d9bc64cd0ea44b45761ba",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "random-getters-ten-seeds-coupled-2026-10-13/random_getters/1/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/random-getters-ten-seeds-coupled-2026-10-13/random_getters/1/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "random-getters-ten-seeds-coupled-2026-10-13/random_getters/6/gama_trace.json",
+      "sha256": "8a93c9eda9398aa432abcd9fc2f5d06a62f789fc32c964eafb5262f35d392991",
+      "original_archive_path": "results/random-getters-ten-seeds-coupled-2026-10-13/random_getters/6/gama_trace.json",
+      "original_sha256": "8a93c9eda9398aa432abcd9fc2f5d06a62f789fc32c964eafb5262f35d392991",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "random-getters-ten-seeds-coupled-2026-10-13/random_getters/6/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/random-getters-ten-seeds-coupled-2026-10-13/random_getters/6/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "random-getters-ten-seeds-coupled-2026-10-13/random_getters/3/gama_trace.json",
+      "sha256": "07fc3ee1c4d54b2715efd58c0f0635f638f005b6890f0eebf17f4d6e037988bf",
+      "original_archive_path": "results/random-getters-ten-seeds-coupled-2026-10-13/random_getters/3/gama_trace.json",
+      "original_sha256": "07fc3ee1c4d54b2715efd58c0f0635f638f005b6890f0eebf17f4d6e037988bf",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "random-getters-ten-seeds-coupled-2026-10-13/random_getters/3/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/random-getters-ten-seeds-coupled-2026-10-13/random_getters/3/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "random-getters-ten-seeds-coupled-2026-10-13/random_getters/7/gama_trace.json",
+      "sha256": "49d8001b8768c179f1390934efa0833fed08d73e46800cce48f67e64fa4407c8",
+      "original_archive_path": "results/random-getters-ten-seeds-coupled-2026-10-13/random_getters/7/gama_trace.json",
+      "original_sha256": "49d8001b8768c179f1390934efa0833fed08d73e46800cce48f67e64fa4407c8",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "random-getters-ten-seeds-coupled-2026-10-13/random_getters/7/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/random-getters-ten-seeds-coupled-2026-10-13/random_getters/7/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "random-getters-ten-seeds-coupled-2026-10-13/random_getters/10/gama_trace.json",
+      "sha256": "9238cdbb713a26a65316d8398ba5b05cda6303f6124caa1ce95e3c2edc374d0f",
+      "original_archive_path": "results/random-getters-ten-seeds-coupled-2026-10-13/random_getters/10/gama_trace.json",
+      "original_sha256": "9238cdbb713a26a65316d8398ba5b05cda6303f6124caa1ce95e3c2edc374d0f",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "random-getters-ten-seeds-coupled-2026-10-13/random_getters/10/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/random-getters-ten-seeds-coupled-2026-10-13/random_getters/10/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "random-getters-ten-seeds-coupled-2026-10-13/random_getters/8/gama_trace.json",
+      "sha256": "1169fefda5d5671f6699547e7a89772b56da63f7584b12d0e6bde0ee13f7eef7",
+      "original_archive_path": "results/random-getters-ten-seeds-coupled-2026-10-13/random_getters/8/gama_trace.json",
+      "original_sha256": "1169fefda5d5671f6699547e7a89772b56da63f7584b12d0e6bde0ee13f7eef7",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "random-getters-ten-seeds-coupled-2026-10-13/random_getters/8/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/random-getters-ten-seeds-coupled-2026-10-13/random_getters/8/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "random-getters-ten-seeds-coupled-2026-10-13/random_getters/2/gama_trace.json",
+      "sha256": "1f12341a5b9bda51dab7e1220d0d46e2f6bd93c0d4ab4b765b4ab05a0d4751d7",
+      "original_archive_path": "results/random-getters-ten-seeds-coupled-2026-10-13/random_getters/2/gama_trace.json",
+      "original_sha256": "1f12341a5b9bda51dab7e1220d0d46e2f6bd93c0d4ab4b765b4ab05a0d4751d7",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "random-getters-ten-seeds-coupled-2026-10-13/random_getters/2/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/random-getters-ten-seeds-coupled-2026-10-13/random_getters/2/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "raster-pixels-native-contract-2026-10-13/raster_pixels/2/gama_trace.json",
+      "sha256": "66f01e1b7ad65671f9911ae96d6124ef3a0848832738d709e880be6f929a7cd6",
+      "original_archive_path": "results/raster-pixels-native-contract-2026-10-13/raster_pixels/2/gama_trace.json",
+      "original_sha256": "66f01e1b7ad65671f9911ae96d6124ef3a0848832738d709e880be6f929a7cd6",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "raster-pixels-native-contract-2026-10-13/raster_pixels/2/gama_identities.json",
+      "sha256": "53ac335e0fcc6e1ad2910da605e9f948b50511131314f4e6e1bf53c027ba6664",
+      "original_archive_path": "results/raster-pixels-native-contract-2026-10-13/raster_pixels/2/gama_identities.json",
+      "original_sha256": "53ac335e0fcc6e1ad2910da605e9f948b50511131314f4e6e1bf53c027ba6664",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/5/gama_trace.json",
+      "sha256": "d7d75db67d0d7031ad38e6a665058cf41ad2ac779d3fbb2d5b6c6a16b2fff01b",
+      "original_archive_path": "results/returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/5/gama_trace.json",
+      "original_sha256": "d7d75db67d0d7031ad38e6a665058cf41ad2ac779d3fbb2d5b6c6a16b2fff01b",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/5/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/5/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/9/gama_trace.json",
+      "sha256": "7074e7f42c65502c19ffba9d112d9222a54c6d72180314bbb3e161a75b000f52",
+      "original_archive_path": "results/returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/9/gama_trace.json",
+      "original_sha256": "7074e7f42c65502c19ffba9d112d9222a54c6d72180314bbb3e161a75b000f52",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/9/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/9/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/4/gama_trace.json",
+      "sha256": "b8bd2e983e84211f643dfed3c78baeecd76d363da7ac5543a2a21315ad36ab90",
+      "original_archive_path": "results/returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/4/gama_trace.json",
+      "original_sha256": "b8bd2e983e84211f643dfed3c78baeecd76d363da7ac5543a2a21315ad36ab90",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/4/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/4/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/1/gama_trace.json",
+      "sha256": "e8d6ea8d407c40dbfedf47c325280f490489c22f69df7acad8b249f124a199f6",
+      "original_archive_path": "results/returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/1/gama_trace.json",
+      "original_sha256": "e8d6ea8d407c40dbfedf47c325280f490489c22f69df7acad8b249f124a199f6",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/1/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/1/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/6/gama_trace.json",
+      "sha256": "4ebe017c649a8b73196bfe5cf9b01cb8041fd2dfa26e570bf0605c763f295f27",
+      "original_archive_path": "results/returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/6/gama_trace.json",
+      "original_sha256": "4ebe017c649a8b73196bfe5cf9b01cb8041fd2dfa26e570bf0605c763f295f27",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/6/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/6/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/3/gama_trace.json",
+      "sha256": "162cfcf2d1b7959b16ba470f73b8ae8dd429e71b64809fae52482be6e21bd134",
+      "original_archive_path": "results/returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/3/gama_trace.json",
+      "original_sha256": "162cfcf2d1b7959b16ba470f73b8ae8dd429e71b64809fae52482be6e21bd134",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/3/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/3/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/7/gama_trace.json",
+      "sha256": "629a942c1be57f9fab6f0a59141a9c4f24aec6b44c923113d11b8a6ae7dd6c30",
+      "original_archive_path": "results/returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/7/gama_trace.json",
+      "original_sha256": "629a942c1be57f9fab6f0a59141a9c4f24aec6b44c923113d11b8a6ae7dd6c30",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/7/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/7/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/10/gama_trace.json",
+      "sha256": "be62860aa85d8a6376d2c0877fab7c8b3222697c7c5a505ba6ae99d4bf86a8de",
+      "original_archive_path": "results/returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/10/gama_trace.json",
+      "original_sha256": "be62860aa85d8a6376d2c0877fab7c8b3222697c7c5a505ba6ae99d4bf86a8de",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/10/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/10/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/8/gama_trace.json",
+      "sha256": "5761930aefaea401c547facab616fefe3ab38906774a25a342ff04a65a19a173",
+      "original_archive_path": "results/returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/8/gama_trace.json",
+      "original_sha256": "5761930aefaea401c547facab616fefe3ab38906774a25a342ff04a65a19a173",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/8/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/8/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/2/gama_trace.json",
+      "sha256": "83d6ce5fdf08d587c6fb4fe9ed82e9e3af4add771c67dacb193af9de8f682ebf",
+      "original_archive_path": "results/returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/2/gama_trace.json",
+      "original_sha256": "83d6ce5fdf08d587c6fb4fe9ed82e9e3af4add771c67dacb193af9de8f682ebf",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/2/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/returning-actions-ten-seeds-native-coupled-2026-10-13/returning_actions/2/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/5/gama_trace.json",
+      "sha256": "17c3ce37eb6cee6fd9021b49125391a4b6f747273c927c5f916202362df8a1b4",
+      "original_archive_path": "results/spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/5/gama_trace.json",
+      "original_sha256": "17c3ce37eb6cee6fd9021b49125391a4b6f747273c927c5f916202362df8a1b4",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/5/gama_identities.json",
+      "sha256": "f36f30aba792324fc6d2c26690dae144e501aa0d35e3a6f573a9c0b09cd5d3dc",
+      "original_archive_path": "results/spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/5/gama_identities.json",
+      "original_sha256": "f36f30aba792324fc6d2c26690dae144e501aa0d35e3a6f573a9c0b09cd5d3dc",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/9/gama_trace.json",
+      "sha256": "c4000b685f2fd24b5d2ef11bf6ce2d051ca074b84608ce15465618712f00180b",
+      "original_archive_path": "results/spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/9/gama_trace.json",
+      "original_sha256": "c4000b685f2fd24b5d2ef11bf6ce2d051ca074b84608ce15465618712f00180b",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/9/gama_identities.json",
+      "sha256": "f36f30aba792324fc6d2c26690dae144e501aa0d35e3a6f573a9c0b09cd5d3dc",
+      "original_archive_path": "results/spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/9/gama_identities.json",
+      "original_sha256": "f36f30aba792324fc6d2c26690dae144e501aa0d35e3a6f573a9c0b09cd5d3dc",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/4/gama_trace.json",
+      "sha256": "7b374cbc735642702e21a04baf700ee7284a01ad9d0009c810940dec161845a2",
+      "original_archive_path": "results/spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/4/gama_trace.json",
+      "original_sha256": "7b374cbc735642702e21a04baf700ee7284a01ad9d0009c810940dec161845a2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/4/gama_identities.json",
+      "sha256": "f36f30aba792324fc6d2c26690dae144e501aa0d35e3a6f573a9c0b09cd5d3dc",
+      "original_archive_path": "results/spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/4/gama_identities.json",
+      "original_sha256": "f36f30aba792324fc6d2c26690dae144e501aa0d35e3a6f573a9c0b09cd5d3dc",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/1/gama_trace.json",
+      "sha256": "6209860407ae5239b4d22f341fb901c02a4bcdc3d0011c77e6ce858bdf2ec41d",
+      "original_archive_path": "results/spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/1/gama_trace.json",
+      "original_sha256": "6209860407ae5239b4d22f341fb901c02a4bcdc3d0011c77e6ce858bdf2ec41d",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/1/gama_identities.json",
+      "sha256": "f36f30aba792324fc6d2c26690dae144e501aa0d35e3a6f573a9c0b09cd5d3dc",
+      "original_archive_path": "results/spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/1/gama_identities.json",
+      "original_sha256": "f36f30aba792324fc6d2c26690dae144e501aa0d35e3a6f573a9c0b09cd5d3dc",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/6/gama_trace.json",
+      "sha256": "2b3b165e6274eed717c516e505b9704070aecf662b3ba7eaa76ece39426ec3b1",
+      "original_archive_path": "results/spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/6/gama_trace.json",
+      "original_sha256": "2b3b165e6274eed717c516e505b9704070aecf662b3ba7eaa76ece39426ec3b1",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/6/gama_identities.json",
+      "sha256": "f36f30aba792324fc6d2c26690dae144e501aa0d35e3a6f573a9c0b09cd5d3dc",
+      "original_archive_path": "results/spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/6/gama_identities.json",
+      "original_sha256": "f36f30aba792324fc6d2c26690dae144e501aa0d35e3a6f573a9c0b09cd5d3dc",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/3/gama_trace.json",
+      "sha256": "671111d6914113c555aef17d12c9366f6e01430499bd5b844df26830470c96f7",
+      "original_archive_path": "results/spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/3/gama_trace.json",
+      "original_sha256": "671111d6914113c555aef17d12c9366f6e01430499bd5b844df26830470c96f7",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/3/gama_identities.json",
+      "sha256": "f36f30aba792324fc6d2c26690dae144e501aa0d35e3a6f573a9c0b09cd5d3dc",
+      "original_archive_path": "results/spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/3/gama_identities.json",
+      "original_sha256": "f36f30aba792324fc6d2c26690dae144e501aa0d35e3a6f573a9c0b09cd5d3dc",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/7/gama_trace.json",
+      "sha256": "8a7a05820d90af4d2c305a4fde9a18a39d25a27e7600e641eead8c88daade45d",
+      "original_archive_path": "results/spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/7/gama_trace.json",
+      "original_sha256": "8a7a05820d90af4d2c305a4fde9a18a39d25a27e7600e641eead8c88daade45d",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/7/gama_identities.json",
+      "sha256": "f36f30aba792324fc6d2c26690dae144e501aa0d35e3a6f573a9c0b09cd5d3dc",
+      "original_archive_path": "results/spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/7/gama_identities.json",
+      "original_sha256": "f36f30aba792324fc6d2c26690dae144e501aa0d35e3a6f573a9c0b09cd5d3dc",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/10/gama_trace.json",
+      "sha256": "d23fb881e2162e967dfb15a81037a451937e73dac175f2d09a21ef9247ff5a1b",
+      "original_archive_path": "results/spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/10/gama_trace.json",
+      "original_sha256": "d23fb881e2162e967dfb15a81037a451937e73dac175f2d09a21ef9247ff5a1b",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/10/gama_identities.json",
+      "sha256": "f36f30aba792324fc6d2c26690dae144e501aa0d35e3a6f573a9c0b09cd5d3dc",
+      "original_archive_path": "results/spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/10/gama_identities.json",
+      "original_sha256": "f36f30aba792324fc6d2c26690dae144e501aa0d35e3a6f573a9c0b09cd5d3dc",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/8/gama_trace.json",
+      "sha256": "5f8161fcb9c0ca178b4905129ef19018e2e0b01af0162356e71a78ac50035985",
+      "original_archive_path": "results/spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/8/gama_trace.json",
+      "original_sha256": "5f8161fcb9c0ca178b4905129ef19018e2e0b01af0162356e71a78ac50035985",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/8/gama_identities.json",
+      "sha256": "f36f30aba792324fc6d2c26690dae144e501aa0d35e3a6f573a9c0b09cd5d3dc",
+      "original_archive_path": "results/spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/8/gama_identities.json",
+      "original_sha256": "f36f30aba792324fc6d2c26690dae144e501aa0d35e3a6f573a9c0b09cd5d3dc",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/2/gama_trace.json",
+      "sha256": "fbb1c744a8bc32df343bde76e1e22b4b6b5eb53ffc8592d03ca2eadbb5e6c7fe",
+      "original_archive_path": "results/spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/2/gama_trace.json",
+      "original_sha256": "fbb1c744a8bc32df343bde76e1e22b4b6b5eb53ffc8592d03ca2eadbb5e6c7fe",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/2/gama_identities.json",
+      "sha256": "f36f30aba792324fc6d2c26690dae144e501aa0d35e3a6f573a9c0b09cd5d3dc",
+      "original_archive_path": "results/spatial-getters-ten-seeds-coupled-2026-10-13/spatial_getters/2/gama_identities.json",
+      "original_sha256": "f36f30aba792324fc6d2c26690dae144e501aa0d35e3a6f573a9c0b09cd5d3dc",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "spatial-overlap-native-probe-2026-10-13/spatial_overlap/2/gama_trace.json",
+      "sha256": "2b5b4e2154417a6e781fc42145e4f14621bfc7a704be08d048cb2d0eba31c3d7",
+      "original_archive_path": "results/spatial-overlap-native-probe-2026-10-13/spatial_overlap/2/gama_trace.json",
+      "original_sha256": "2b5b4e2154417a6e781fc42145e4f14621bfc7a704be08d048cb2d0eba31c3d7",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "spatial-overlap-native-probe-2026-10-13/spatial_overlap/2/gama_identities.json",
+      "sha256": "76c0744b9f61f73ccd56a94e585b366721cbd899897ac80fbb955d846808ef47",
+      "original_archive_path": "results/spatial-overlap-native-probe-2026-10-13/spatial_overlap/2/gama_identities.json",
+      "original_sha256": "76c0744b9f61f73ccd56a94e585b366721cbd899897ac80fbb955d846808ef47",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "update-attributes-coupled-native-2026-10-13/update_attributes/2/gama_trace.json",
+      "sha256": "a0848e8fafb53ee6ab39bdf9f203a60e474d0f47459e2b198f27d20f22ad7dd7",
+      "original_archive_path": "results/update-attributes-coupled-native-2026-10-13/update_attributes/2/gama_trace.json",
+      "original_sha256": "a0848e8fafb53ee6ab39bdf9f203a60e474d0f47459e2b198f27d20f22ad7dd7",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "update-attributes-coupled-native-2026-10-13/update_attributes/2/gama_identities.json",
+      "sha256": "d828e238b4dc2dfca0300f528759bbd7db1726f4c451f45ce0d87ac5fa40b455",
+      "original_archive_path": "results/update-attributes-coupled-native-2026-10-13/update_attributes/2/gama_identities.json",
+      "original_sha256": "d828e238b4dc2dfca0300f528759bbd7db1726f4c451f45ce0d87ac5fa40b455",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "update-forward-dependencies-native-b-2026-10-13/update_forward_dependencies/2/gama_trace.json",
+      "sha256": "df927ec8a09ccb9f6728dab215010aa1cd4fa0da5fa6ed8270eae7e62c941e8a",
+      "original_archive_path": "results/update-forward-dependencies-native-b-2026-10-13/update_forward_dependencies/2/gama_trace.json",
+      "original_sha256": "df927ec8a09ccb9f6728dab215010aa1cd4fa0da5fa6ed8270eae7e62c941e8a",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "update-forward-dependencies-native-b-2026-10-13/update_forward_dependencies/2/gama_identities.json",
+      "sha256": "7e64d81b261f1b5ed615d99e1f7e73b58089c67bbdefc1587de679a1864b5b4f",
+      "original_archive_path": "results/update-forward-dependencies-native-b-2026-10-13/update_forward_dependencies/2/gama_identities.json",
+      "original_sha256": "7e64d81b261f1b5ed615d99e1f7e73b58089c67bbdefc1587de679a1864b5b4f",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "value-lists-native-probe-c-2026-10-13/value_lists/2/gama_trace.json",
+      "sha256": "6c807a1e278a23f154c99d53059727ee89469307d1d123ffa6fa98660544f063",
+      "original_archive_path": "results/value-lists-native-probe-c-2026-10-13/value_lists/2/gama_trace.json",
+      "original_sha256": "6c807a1e278a23f154c99d53059727ee89469307d1d123ffa6fa98660544f063",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "value-lists-native-probe-c-2026-10-13/value_lists/2/gama_identities.json",
+      "sha256": "cb53d1dffdae3a1e1a360b76ed0db67078287a1534d3e7aa1872fa898e151269",
+      "original_archive_path": "results/value-lists-native-probe-c-2026-10-13/value_lists/2/gama_identities.json",
+      "original_sha256": "cb53d1dffdae3a1e1a360b76ed0db67078287a1534d3e7aa1872fa898e151269",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "wander-rules-native-probe-2026-10-13/wander_rules/2/gama_trace.json",
+      "sha256": "2e436337de3dd6d8b989ae35a530f563059e3b0044ed086ab954f6f4647d9ba4",
+      "original_archive_path": "results/wander-rules-native-probe-2026-10-13/wander_rules/2/gama_trace.json",
+      "original_sha256": "2e436337de3dd6d8b989ae35a530f563059e3b0044ed086ab954f6f4647d9ba4",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "wander-rules-native-probe-2026-10-13/wander_rules/2/gama_identities.json",
+      "sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "original_archive_path": "results/wander-rules-native-probe-2026-10-13/wander_rules/2/gama_identities.json",
+      "original_sha256": "3beab27324be776511d39819ce33066233d3ed0e51ad2c587c67b81ea98b82e2",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "optimizer-contact-cache-native-probe-v3/native/result.json",
+      "sha256": "aabf8c3ae7730caf5bf4e099cf272f7fc6460cbaa553c546415f483f080fc086",
+      "original_archive_path": "results/optimizer-contact-cache-native-probe-v3/native/result.json",
+      "original_sha256": "3cf1b14ea0463ae974ef3852b06d8189de26dc557b2b35f0713126d536620e6a",
+      "derivation": "trace field only; drops commands, local paths and infrastructure metadata"
+    },
+    {
+      "file": "optimizer-contact-cache-native-probe-v3/compiled/manifest.json",
+      "sha256": "4344ab77d1aded8356e81ad18d7e279cfbfa0e6315402871b9325bad3952de3d",
+      "original_archive_path": "results/optimizer-contact-cache-native-probe-v3/compiled/manifest.json",
+      "original_sha256": "689fe37f4534113c8b24eaa140ff726edc29365a9d26fd2c1e7af79b78242d47",
+      "derivation": "fields schema only; drops local source paths and unrelated manifest metadata"
+    },
+    {
+      "file": "optimizer-contact-cache-native-probe-v3/probe.gaml",
+      "sha256": "f893a5c317da777cc74e1bccd793cf1cf98921c1da174177d0fbe887fab41196",
+      "original_archive_path": "results/optimizer-contact-cache-native-probe-v3/probe.gaml",
+      "original_sha256": "f893a5c317da777cc74e1bccd793cf1cf98921c1da174177d0fbe887fab41196",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "optimizer-guarded-reflex-native-probe/native/result.json",
+      "sha256": "623aa5f396b90a936b924f98cc6d5e84bd8ed5f64c20285bc0878b8dca19fce5",
+      "original_archive_path": "results/optimizer-guarded-reflex-native-probe/native/result.json",
+      "original_sha256": "a90051b37d9a00fdc348dec6c77c9cc22d4d35278dae99517d704768b0396bc8",
+      "derivation": "trace field only; drops commands, local paths and infrastructure metadata"
+    },
+    {
+      "file": "optimizer-guarded-reflex-native-probe/compiled/manifest.json",
+      "sha256": "086a751438ac952f3d69c9b3c618e0624a14298593a4f52ee7ba37dabe88e94f",
+      "original_archive_path": "results/optimizer-guarded-reflex-native-probe/compiled/manifest.json",
+      "original_sha256": "aacb8027daee6b6130beff299af3cb9440f698bc81adad560767ce41bce9896e",
+      "derivation": "fields schema only; drops local source paths and unrelated manifest metadata"
+    },
+    {
+      "file": "optimizer-guarded-reflex-native-probe/probe.gaml",
+      "sha256": "7e93a22868c515a0a39d7c69751fc583002a3903c0f891fc5a949fad167974f6",
+      "original_archive_path": "results/optimizer-guarded-reflex-native-probe/probe.gaml",
+      "original_sha256": "7e93a22868c515a0a39d7c69751fc583002a3903c0f891fc5a949fad167974f6",
+      "derivation": "original fixture bytes"
+    },
+    {
+      "file": "optimizer-pure-getter-native-probe-v2/native/result.json",
+      "sha256": "9de52d1f0154233e510bbf2f40981f5e5f04f73bd195413d6923f0770cd3a7c1",
+      "original_archive_path": "results/optimizer-pure-getter-native-probe-v2/native/result.json",
+      "original_sha256": "63af6605952a9c2ac6b7a7bacda817db5485abcad705e6399ffce245576465ab",
+      "derivation": "trace field only; drops commands, local paths and infrastructure metadata"
+    },
+    {
+      "file": "optimizer-pure-getter-native-probe-v2/compiled/manifest.json",
+      "sha256": "f7e75d1fee5453af2178c95dc2de1080fcdb03c4ea2c87d4ed11885336218094",
+      "original_archive_path": "results/optimizer-pure-getter-native-probe-v2/compiled/manifest.json",
+      "original_sha256": "bb3a34a3c3bd5647b2c2f49762d2a5edfaee5a37be4fe9dac5069a27fa789d87",
+      "derivation": "fields schema only; drops local source paths and unrelated manifest metadata"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"fields":{"global.walkers":"int","global.perception":"float","global.checksum":"int","Walker.location":"point","Walker.group":"int","Walker.nearby":"agents:Walker","Walker.total_nearby":"int","Walker.same_group":"int"}}

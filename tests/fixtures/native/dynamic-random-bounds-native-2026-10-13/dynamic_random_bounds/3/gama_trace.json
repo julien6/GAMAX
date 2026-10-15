@@ -1,0 +1,4446 @@
+[
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      1,
+      2
+    ],
+    "Walker.integer_sample": [
+      0,
+      0,
+      0
+    ],
+    "Walker.float_sample": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      2,
+      0
+    ],
+    "Walker.integer_sample": [
+      -2,
+      0,
+      0
+    ],
+    "Walker.float_sample": [
+      -0.29397979328774304,
+      1.96439276072703,
+      2.8831899983413125
+    ],
+    "Walker.branch": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      2,
+      2
+    ],
+    "Walker.integer_sample": [
+      -2,
+      4,
+      -3
+    ],
+    "Walker.float_sample": [
+      0.22736106747693396,
+      2.7106194271829,
+      -0.36579218250160195
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      1,
+      2
+    ],
+    "Walker.integer_sample": [
+      -2,
+      -4,
+      -3
+    ],
+    "Walker.float_sample": [
+      2.088973809227988,
+      1.9705079812571675,
+      1.9946942250835815
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      1,
+      2
+    ],
+    "Walker.integer_sample": [
+      -2,
+      3,
+      6
+    ],
+    "Walker.float_sample": [
+      3.4914375142059857,
+      1.9010704946465107,
+      0.45469663980187525
+    ],
+    "Walker.branch": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      1,
+      2
+    ],
+    "Walker.integer_sample": [
+      1,
+      3,
+      3
+    ],
+    "Walker.float_sample": [
+      2.118122255499772,
+      0.5137351631557467,
+      0.18790961616493895
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      1,
+      2
+    ],
+    "Walker.integer_sample": [
+      1,
+      4,
+      3
+    ],
+    "Walker.float_sample": [
+      2.815155506517092,
+      2.7869582533555883,
+      1.086486104707748
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      1,
+      1
+    ],
+    "Walker.integer_sample": [
+      3,
+      2,
+      -3
+    ],
+    "Walker.float_sample": [
+      2.193914627970041,
+      3.5013837564093944,
+      2.2283858928142126
+    ],
+    "Walker.branch": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      1,
+      0
+    ],
+    "Walker.integer_sample": [
+      5,
+      2,
+      -3
+    ],
+    "Walker.float_sample": [
+      0.31044986599177093,
+      0.20248605695912314,
+      1.042132488490433
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      1,
+      1
+    ],
+    "Walker.integer_sample": [
+      5,
+      1,
+      7
+    ],
+    "Walker.float_sample": [
+      2.6036908909261625,
+      1.113890892560525,
+      -1.079983354799749
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      2,
+      0
+    ],
+    "Walker.integer_sample": [
+      5,
+      1,
+      7
+    ],
+    "Walker.float_sample": [
+      -0.6651106136774004,
+      3.3781271108491726,
+      -0.9600402089184856
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      2,
+      0
+    ],
+    "Walker.integer_sample": [
+      -3,
+      2,
+      7
+    ],
+    "Walker.float_sample": [
+      0.13175320360686404,
+      2.524274522676306,
+      0.2012042787275048
+    ],
+    "Walker.branch": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      0,
+      1
+    ],
+    "Walker.integer_sample": [
+      -3,
+      2,
+      7
+    ],
+    "Walker.float_sample": [
+      3.0037753610516944,
+      2.8515890415250684,
+      0.600813899040562
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      1,
+      1
+    ],
+    "Walker.integer_sample": [
+      -3,
+      -4,
+      7
+    ],
+    "Walker.float_sample": [
+      1.3271003362259464,
+      0.8940830687746972,
+      -0.9894695147580584
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      0,
+      2
+    ],
+    "Walker.integer_sample": [
+      -1,
+      0,
+      7
+    ],
+    "Walker.float_sample": [
+      3.150019863079131,
+      -1.1219348621341352,
+      2.9371953597038774
+    ],
+    "Walker.branch": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      0,
+      2
+    ],
+    "Walker.integer_sample": [
+      -1,
+      -3,
+      7
+    ],
+    "Walker.float_sample": [
+      -0.21807871915661403,
+      2.217177241726853,
+      -0.6017137115523274
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      2,
+      1
+    ],
+    "Walker.integer_sample": [
+      -1,
+      -4,
+      -2
+    ],
+    "Walker.float_sample": [
+      1.8464960809693718,
+      2.1136876013412573,
+      0.3064745368168553
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      0,
+      1
+    ],
+    "Walker.integer_sample": [
+      -1,
+      2,
+      -2
+    ],
+    "Walker.float_sample": [
+      2.0762412280944877,
+      0.7251418937104477,
+      0.7168580924924262
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      1,
+      1
+    ],
+    "Walker.integer_sample": [
+      -1,
+      2,
+      7
+    ],
+    "Walker.float_sample": [
+      -0.6985607868511179,
+      2.248893687706267,
+      0.1554628823105253
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      2,
+      0
+    ],
+    "Walker.integer_sample": [
+      -3,
+      7,
+      7
+    ],
+    "Walker.float_sample": [
+      1.0252048604597936,
+      2.552561589047558,
+      2.2833185565501
+    ],
+    "Walker.branch": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      0,
+      1
+    ],
+    "Walker.integer_sample": [
+      -3,
+      7,
+      -2
+    ],
+    "Walker.float_sample": [
+      2.482983066816278,
+      2.330863598782462,
+      0.6141422537154806
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      2,
+      0
+    ],
+    "Walker.integer_sample": [
+      -3,
+      7,
+      7
+    ],
+    "Walker.float_sample": [
+      2.109597209969279,
+      3.6160550346391522,
+      1.0288777579435875
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      1,
+      0
+    ],
+    "Walker.integer_sample": [
+      5,
+      7,
+      4
+    ],
+    "Walker.float_sample": [
+      1.2594440025557532,
+      0.1421020951502283,
+      0.9500050259136983
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      2,
+      0
+    ],
+    "Walker.integer_sample": [
+      -3,
+      2,
+      4
+    ],
+    "Walker.float_sample": [
+      0.7107682094490209,
+      -0.9747236430471118,
+      -0.01667676547550467
+    ],
+    "Walker.branch": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      0,
+      0
+    ],
+    "Walker.integer_sample": [
+      -3,
+      2,
+      -3
+    ],
+    "Walker.float_sample": [
+      -0.23249973594162876,
+      1.818478782294406,
+      1.049911867398328
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      1,
+      2
+    ],
+    "Walker.integer_sample": [
+      -4,
+      2,
+      0
+    ],
+    "Walker.float_sample": [
+      3.7312011253154003,
+      1.2704413193282522,
+      3.669916350785602
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      0,
+      1
+    ],
+    "Walker.integer_sample": [
+      3,
+      2,
+      0
+    ],
+    "Walker.float_sample": [
+      -0.960857793946876,
+      0.44309958952106543,
+      2.6433513967153823
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      2,
+      0
+    ],
+    "Walker.integer_sample": [
+      7,
+      5,
+      2
+    ],
+    "Walker.float_sample": [
+      1.6728317036605782,
+      2.5418756124899917,
+      2.397325557837431
+    ],
+    "Walker.branch": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      0,
+      1
+    ],
+    "Walker.integer_sample": [
+      -3,
+      5,
+      2
+    ],
+    "Walker.float_sample": [
+      1.6259891940211708,
+      1.8446857075569154,
+      -0.2584279962366298
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      0,
+      0
+    ],
+    "Walker.integer_sample": [
+      -3,
+      1,
+      7
+    ],
+    "Walker.float_sample": [
+      -1.2289306520524041,
+      0.4376709916750059,
+      2.432742647585269
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      2,
+      2
+    ],
+    "Walker.integer_sample": [
+      2,
+      1,
+      -3
+    ],
+    "Walker.float_sample": [
+      3.6563393445980648,
+      1.1148433278937748,
+      -0.18430347385109624
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      2,
+      0
+    ],
+    "Walker.integer_sample": [
+      -3,
+      1,
+      2
+    ],
+    "Walker.float_sample": [
+      -0.18915465405402676,
+      -0.6638014545146631,
+      0.7952502428027941
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      1,
+      0
+    ],
+    "Walker.integer_sample": [
+      -3,
+      0,
+      6
+    ],
+    "Walker.float_sample": [
+      1.1939864643716098,
+      0.5350463862986792,
+      0.02876578209039748
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      1,
+      2
+    ],
+    "Walker.integer_sample": [
+      -3,
+      0,
+      6
+    ],
+    "Walker.float_sample": [
+      1.945259706725694,
+      2.5837861884995443,
+      1.7821638449825974
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      1,
+      2
+    ],
+    "Walker.integer_sample": [
+      -3,
+      0,
+      2
+    ],
+    "Walker.float_sample": [
+      0.6938371839798418,
+      -0.15769956488584524,
+      3.1204295125813175
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      2,
+      1
+    ],
+    "Walker.integer_sample": [
+      -3,
+      0,
+      2
+    ],
+    "Walker.float_sample": [
+      -0.6890075763277326,
+      -0.5638360967405603,
+      -0.4236738521080474
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      0,
+      0
+    ],
+    "Walker.integer_sample": [
+      -3,
+      0,
+      2
+    ],
+    "Walker.float_sample": [
+      0.5258221883101988,
+      3.715738399348534,
+      1.5780643869199116
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      0,
+      2
+    ],
+    "Walker.integer_sample": [
+      6,
+      4,
+      2
+    ],
+    "Walker.float_sample": [
+      2.3644772686744724,
+      0.7784770107673067,
+      -0.38165366955191127
+    ],
+    "Walker.branch": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      0,
+      1
+    ],
+    "Walker.integer_sample": [
+      6,
+      -2,
+      -3
+    ],
+    "Walker.float_sample": [
+      0.6696823432026937,
+      2.52504473026757,
+      -1.1019573087649748
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      1,
+      2
+    ],
+    "Walker.integer_sample": [
+      1,
+      5,
+      -3
+    ],
+    "Walker.float_sample": [
+      3.3894993565832223,
+      2.8407255004738134,
+      -0.00183902515685963
+    ],
+    "Walker.branch": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      2,
+      1
+    ],
+    "Walker.integer_sample": [
+      1,
+      7,
+      -3
+    ],
+    "Walker.float_sample": [
+      1.6928761249887088,
+      2.3554657989959935,
+      0.12784966769139094
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      1,
+      2
+    ],
+    "Walker.integer_sample": [
+      -4,
+      0,
+      -3
+    ],
+    "Walker.float_sample": [
+      1.5292333334254216,
+      2.6463408385227387,
+      -0.3114414947933075
+    ],
+    "Walker.branch": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      1,
+      0
+    ],
+    "Walker.integer_sample": [
+      -4,
+      0,
+      1
+    ],
+    "Walker.float_sample": [
+      -1.0951380958521661,
+      2.2756204442173713,
+      1.6942294788841532
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      1,
+      1
+    ],
+    "Walker.integer_sample": [
+      5,
+      0,
+      6
+    ],
+    "Walker.float_sample": [
+      3.646798328684582,
+      3.0957594144046556,
+      -0.3483251688235395
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      2,
+      1
+    ],
+    "Walker.integer_sample": [
+      5,
+      0,
+      6
+    ],
+    "Walker.float_sample": [
+      2.5644476175790363,
+      0.6369322440881675,
+      -0.40497068965685057
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      1,
+      1
+    ],
+    "Walker.integer_sample": [
+      5,
+      2,
+      6
+    ],
+    "Walker.float_sample": [
+      3.489866382722652,
+      0.0984905381131167,
+      2.2407557557260067
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      1,
+      2
+    ],
+    "Walker.integer_sample": [
+      5,
+      7,
+      6
+    ],
+    "Walker.float_sample": [
+      2.432031326842365,
+      -0.9179116063703568,
+      3.160530476995805
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      1,
+      0
+    ],
+    "Walker.integer_sample": [
+      5,
+      1,
+      6
+    ],
+    "Walker.float_sample": [
+      2.865006943548601,
+      -0.0374585077364864,
+      0.7222560616302243
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      0,
+      1
+    ],
+    "Walker.integer_sample": [
+      -4,
+      -3,
+      6
+    ],
+    "Walker.float_sample": [
+      1.1377374131637925,
+      3.3066150375948826,
+      0.4399511715885347
+    ],
+    "Walker.branch": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      2,
+      0
+    ],
+    "Walker.integer_sample": [
+      -1,
+      -3,
+      6
+    ],
+    "Walker.float_sample": [
+      0.625208560317752,
+      3.3042525912313554,
+      2.6416200104808825
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      0,
+      2
+    ],
+    "Walker.integer_sample": [
+      -1,
+      -3,
+      6
+    ],
+    "Walker.float_sample": [
+      3.0581651123987426,
+      1.271602262853734,
+      1.5207886177926397
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      1,
+      1
+    ],
+    "Walker.integer_sample": [
+      5,
+      -3,
+      -4
+    ],
+    "Walker.float_sample": [
+      2.989500898025753,
+      -1.1263864062244804,
+      -0.9613849097480787
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      0,
+      2
+    ],
+    "Walker.integer_sample": [
+      5,
+      -3,
+      7
+    ],
+    "Walker.float_sample": [
+      -0.8826778174384048,
+      1.1458197895845874,
+      -1.2311764243129075
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      1,
+      0
+    ],
+    "Walker.integer_sample": [
+      5,
+      -3,
+      6
+    ],
+    "Walker.float_sample": [
+      -1.166692920050254,
+      -1.1905524045221334,
+      -0.29288048625256746
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      0,
+      2
+    ],
+    "Walker.integer_sample": [
+      0,
+      -3,
+      6
+    ],
+    "Walker.float_sample": [
+      -0.22270596686578203,
+      -0.41066465729356794,
+      0.309995231337612
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      1,
+      0
+    ],
+    "Walker.integer_sample": [
+      0,
+      -4,
+      6
+    ],
+    "Walker.float_sample": [
+      1.7399841489151582,
+      2.255699580814663,
+      -0.10186432959820513
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      2,
+      1
+    ],
+    "Walker.integer_sample": [
+      0,
+      -4,
+      6
+    ],
+    "Walker.float_sample": [
+      0.00658782766267296,
+      2.6222921570836326,
+      -0.9496984229362726
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      2,
+      2
+    ],
+    "Walker.integer_sample": [
+      0,
+      0,
+      6
+    ],
+    "Walker.float_sample": [
+      1.6140274237349233,
+      0.9137161280331978,
+      0.8641673629801576
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      1,
+      1
+    ],
+    "Walker.integer_sample": [
+      0,
+      0,
+      7
+    ],
+    "Walker.float_sample": [
+      1.6956473103691678,
+      3.16118903589899,
+      3.496361856554951
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      1,
+      1
+    ],
+    "Walker.integer_sample": [
+      -4,
+      0,
+      6
+    ],
+    "Walker.float_sample": [
+      3.1366935046057733,
+      2.9696187119413606,
+      2.326446740619712
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      2,
+      2
+    ],
+    "Walker.integer_sample": [
+      -4,
+      2,
+      -2
+    ],
+    "Walker.float_sample": [
+      -0.3408560550648776,
+      3.67232063988415,
+      1.7028164780941961
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      2,
+      1
+    ],
+    "Walker.integer_sample": [
+      -4,
+      2,
+      -2
+    ],
+    "Walker.float_sample": [
+      0.2736238982977579,
+      0.376035431738992,
+      0.30106677064969123
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      1,
+      0
+    ],
+    "Walker.integer_sample": [
+      7,
+      2,
+      0
+    ],
+    "Walker.float_sample": [
+      0.04493362351304775,
+      3.1329290687214426,
+      -0.8841912541169794
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      1,
+      1
+    ],
+    "Walker.integer_sample": [
+      7,
+      7,
+      6
+    ],
+    "Walker.float_sample": [
+      -0.05612246536628618,
+      2.3607882263691127,
+      -1.177156346414402
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      1,
+      0
+    ],
+    "Walker.integer_sample": [
+      7,
+      7,
+      6
+    ],
+    "Walker.float_sample": [
+      2.9360091096416667,
+      0.09881192684127127,
+      2.7167852869692206
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      0,
+      2
+    ],
+    "Walker.integer_sample": [
+      -2,
+      7,
+      6
+    ],
+    "Walker.float_sample": [
+      1.4011937494009947,
+      -0.12617105780043603,
+      2.0983289078843965
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      2,
+      0
+    ],
+    "Walker.integer_sample": [
+      -2,
+      7,
+      6
+    ],
+    "Walker.float_sample": [
+      3.3209059730600563,
+      1.8516549857947036,
+      2.450047769328668
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      0,
+      0
+    ],
+    "Walker.integer_sample": [
+      -2,
+      7,
+      -1
+    ],
+    "Walker.float_sample": [
+      2.9222958608809844,
+      1.3051775173877536,
+      0.5066972957281997
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      2,
+      1
+    ],
+    "Walker.integer_sample": [
+      -4,
+      -3,
+      -4
+    ],
+    "Walker.float_sample": [
+      0.9213861100636844,
+      3.2792822104302983,
+      1.3521467177176953
+    ],
+    "Walker.branch": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      0,
+      1
+    ],
+    "Walker.integer_sample": [
+      3,
+      -3,
+      -4
+    ],
+    "Walker.float_sample": [
+      -1.2197632251446466,
+      0.40560027662851605,
+      2.8930071245836206
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      2,
+      0
+    ],
+    "Walker.integer_sample": [
+      0,
+      -3,
+      0
+    ],
+    "Walker.float_sample": [
+      1.5252668808622154,
+      1.3305580419594971,
+      2.7609848137322555
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      2,
+      2
+    ],
+    "Walker.integer_sample": [
+      0,
+      -3,
+      1
+    ],
+    "Walker.float_sample": [
+      2.4212157622207746,
+      0.9103788867929663,
+      0.12585398810162918
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      1,
+      2
+    ],
+    "Walker.integer_sample": [
+      0,
+      -1,
+      1
+    ],
+    "Walker.float_sample": [
+      2.96420305429133,
+      3.547863727484554,
+      2.95361278394002
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      1,
+      0
+    ],
+    "Walker.integer_sample": [
+      2,
+      4,
+      1
+    ],
+    "Walker.float_sample": [
+      0.8517688266487502,
+      1.6909851627514172,
+      -0.45778152626687774
+    ],
+    "Walker.branch": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      1,
+      0
+    ],
+    "Walker.integer_sample": [
+      1,
+      4,
+      1
+    ],
+    "Walker.float_sample": [
+      -0.0988290189442731,
+      -0.5957826426232821,
+      1.541420643195273
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      1,
+      2
+    ],
+    "Walker.integer_sample": [
+      1,
+      4,
+      -1
+    ],
+    "Walker.float_sample": [
+      3.317512621955389,
+      -0.9331077606534921,
+      1.2897256684949183
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      2,
+      1
+    ],
+    "Walker.integer_sample": [
+      1,
+      4,
+      -1
+    ],
+    "Walker.float_sample": [
+      1.057665070429863,
+      1.6869105567277387,
+      3.6977967326544494
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      1,
+      1
+    ],
+    "Walker.integer_sample": [
+      1,
+      4,
+      -3
+    ],
+    "Walker.float_sample": [
+      2.617369567464034,
+      2.8297549712678514,
+      -0.6002393205616419
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      0,
+      2
+    ],
+    "Walker.integer_sample": [
+      -2,
+      4,
+      -3
+    ],
+    "Walker.float_sample": [
+      -0.8535088065067159,
+      1.1127585213426232,
+      -0.6371521801750996
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      2,
+      1
+    ],
+    "Walker.integer_sample": [
+      5,
+      4,
+      -3
+    ],
+    "Walker.float_sample": [
+      0.2551699853631022,
+      2.4489384645132124,
+      -1.232972192539571
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      0,
+      1
+    ],
+    "Walker.integer_sample": [
+      5,
+      2,
+      -1
+    ],
+    "Walker.float_sample": [
+      2.4071438556509017,
+      3.327158558747363,
+      -0.9197724618992276
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      0,
+      0
+    ],
+    "Walker.integer_sample": [
+      7,
+      2,
+      -1
+    ],
+    "Walker.float_sample": [
+      -0.9009136273212737,
+      -0.6727911728476371,
+      -0.7369947095974477
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      0,
+      2
+    ],
+    "Walker.integer_sample": [
+      7,
+      2,
+      -1
+    ],
+    "Walker.float_sample": [
+      3.2352933368434735,
+      0.6337925464504557,
+      0.7291655766990197
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      2,
+      2
+    ],
+    "Walker.integer_sample": [
+      7,
+      -4,
+      -1
+    ],
+    "Walker.float_sample": [
+      2.0231486144399047,
+      1.3055581668248544,
+      3.7169884031365337
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      1,
+      2
+    ],
+    "Walker.integer_sample": [
+      7,
+      5,
+      5
+    ],
+    "Walker.float_sample": [
+      -0.8520959157536179,
+      1.2355028517152906,
+      0.3409001914084775
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      2,
+      0
+    ],
+    "Walker.integer_sample": [
+      -1,
+      5,
+      5
+    ],
+    "Walker.float_sample": [
+      0.3650888626996973,
+      -1.001846865262076,
+      -0.507345859624162
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      1,
+      0
+    ],
+    "Walker.integer_sample": [
+      7,
+      0,
+      5
+    ],
+    "Walker.float_sample": [
+      1.2966885173836449,
+      1.9452900546897807,
+      2.8707023219855206
+    ],
+    "Walker.branch": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      0,
+      0
+    ],
+    "Walker.integer_sample": [
+      7,
+      0,
+      -2
+    ],
+    "Walker.float_sample": [
+      3.4235036429726637,
+      0.9662995500069678,
+      3.5978849693925525
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      0,
+      1
+    ],
+    "Walker.integer_sample": [
+      -3,
+      5,
+      -2
+    ],
+    "Walker.float_sample": [
+      -0.9884207862807359,
+      2.53841878741051,
+      3.314985225537475
+    ],
+    "Walker.branch": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      0,
+      2
+    ],
+    "Walker.integer_sample": [
+      -3,
+      -4,
+      -4
+    ],
+    "Walker.float_sample": [
+      -0.35593513872488103,
+      1.0956862443231286,
+      1.9740080916149578
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      0,
+      1
+    ],
+    "Walker.integer_sample": [
+      -3,
+      -4,
+      3
+    ],
+    "Walker.float_sample": [
+      1.009227017740113,
+      -1.0195185342203854,
+      3.181057533133197
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      1,
+      2
+    ],
+    "Walker.integer_sample": [
+      6,
+      2,
+      5
+    ],
+    "Walker.float_sample": [
+      1.0095980461648688,
+      3.636205061048506,
+      -0.20554859559021144
+    ],
+    "Walker.branch": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      0,
+      0
+    ],
+    "Walker.integer_sample": [
+      6,
+      2,
+      7
+    ],
+    "Walker.float_sample": [
+      2.3273642061347917,
+      2.1807633269885933,
+      1.6010250140734912
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      0,
+      1
+    ],
+    "Walker.integer_sample": [
+      3,
+      -2,
+      7
+    ],
+    "Walker.float_sample": [
+      -0.5389049109559696,
+      3.5835504573516177,
+      3.5999314358602614
+    ],
+    "Walker.branch": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      1,
+      2,
+      2
+    ],
+    "Walker.integer_sample": [
+      3,
+      -2,
+      7
+    ],
+    "Walker.float_sample": [
+      -0.11358630762322086,
+      3.6707386650042375,
+      3.0557503255609912
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      0,
+      1
+    ],
+    "Walker.integer_sample": [
+      3,
+      -2,
+      7
+    ],
+    "Walker.float_sample": [
+      3.7087548445132006,
+      3.3239855367968545,
+      2.113300915943369
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      1,
+      2
+    ],
+    "Walker.integer_sample": [
+      3,
+      1,
+      3
+    ],
+    "Walker.float_sample": [
+      1.9317462532008705,
+      1.785397816659012,
+      1.7271093805044204
+    ],
+    "Walker.branch": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      0,
+      2
+    ],
+    "Walker.integer_sample": [
+      -4,
+      1,
+      3
+    ],
+    "Walker.float_sample": [
+      2.5728761402814744,
+      2.334510244772614,
+      0.8629939352526241
+    ],
+    "Walker.branch": [
+      true,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      1,
+      1
+    ],
+    "Walker.integer_sample": [
+      -3,
+      -1,
+      3
+    ],
+    "Walker.float_sample": [
+      0.3984309057236135,
+      2.3312039142703727,
+      -0.9754240536760739
+    ],
+    "Walker.branch": [
+      true,
+      true,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      0,
+      0,
+      0
+    ],
+    "Walker.integer_sample": [
+      -3,
+      -1,
+      3
+    ],
+    "Walker.float_sample": [
+      2.459134984979178,
+      -0.17808561998227823,
+      0.21655836722400457
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "global.groups": 3,
+    "global.lower": -4,
+    "global.upper": 7,
+    "global.start": -1.25,
+    "global.stop": 3.75,
+    "Walker.location": [
+      [
+        14.173574609436713,
+        51.078475964666126,
+        0.0
+      ],
+      [
+        48.97213455556351,
+        53.940093446517366,
+        0.0
+      ],
+      [
+        15.529187791105626,
+        20.131239295511115,
+        0.0
+      ]
+    ],
+    "Walker.color_index": [
+      2,
+      2,
+      0
+    ],
+    "Walker.integer_sample": [
+      -3,
+      -1,
+      3
+    ],
+    "Walker.float_sample": [
+      0.01795405459909416,
+      2.836587564309082,
+      1.7703013463441213
+    ],
+    "Walker.branch": [
+      false,
+      false,
+      false
+    ]
+  }
+]

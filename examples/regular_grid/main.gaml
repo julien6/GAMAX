@@ -1,0 +1,1 @@
+model regular_grid global {int sample; reflex draw {sample <- rnd(100);}} grid cell width:3 height:2 neighbors:4 frequency:1 use_regular_agents:true {int a <- rnd(100); int b <- rnd(100); reflex draw {a <- rnd(100);}} experiment validation type:gui {}

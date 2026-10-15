@@ -1,0 +1,5 @@
+{
+  "rng": ["reflex basic_move {", "reflex basic_move { if flip(1.0) {}"],
+  "selection": ["return (my_cell.neighbors2) with_max_of (each.food);", "return one_of(my_cell.neighbors2);"],
+  "lifecycle": ["reflex basic_move {", "reflex basic_move { do die;"]
+}
